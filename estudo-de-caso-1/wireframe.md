@@ -17,6 +17,8 @@ layout:
 
 ### Comece pelo conteúdo
 
+ALTERAÇÃO FEITA NO GITBOOK.
+
 No início de um projeto de design, é tentador ir direto para a interface visual que você imaginou. A maioria das pessoas pensa no design de interface como desenhar caixas dentro de outras caixas, começando pela janela do aplicativo ou navegador e dividindo em seções menores. No entanto, se você desenhar essas caixas de forma arbitrária, elas não se ajustarão ao conteúdo.
 
 É mais eficaz deixar que a forma e a estrutura surjam em relação ao conteúdo. Dê ao conteúdo a forma que ele deseja, em vez de forçá-lo a caber em uma estrutura inadequada. Quando os usuários visitam sites, eles buscam informações como preços, horários de funcionamento ou quem gostou de uma postagem recente. Certifique-se de que o conteúdo que você cria é o que seus usuários procuram. Então, decida como apresentá-lo de maneira que ajude os usuários a atingir seus objetivos.
