@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# Wireframe
+# Copy of Wireframe
 
 {% hint style="info" %}
 Os exemplos apresentados se referem ao [Estudo de Caso 1](introducao.md).
@@ -25,7 +25,7 @@ No início de um projeto de design, é tentador ir direto para a interface visua
 
 É mais eficaz deixar que a forma e a estrutura surjam em relação ao conteúdo. Dê ao conteúdo a forma que ele deseja, em vez de forçá-lo a caber em uma estrutura inadequada. Quando os usuários visitam sites, eles buscam informações como preços, horários de funcionamento ou quem gostou de uma postagem recente. Certifique-se de que o conteúdo que você cria é o que seus usuários procuram. Então, decida como apresentá-lo de maneira que ajude os usuários a atingir seus objetivos.
 
-### Crie uma primeira versão
+### Separe o conteúdo do layout
 
 Embora não seja o momento de focar na apresentação e layout, não é cedo demais para pensar na informação que você quer fornecer e sua prioridade na interface. Este é um dos primeiros passos no processo chamado modelagem de conteúdo.
 
@@ -33,13 +33,23 @@ Um modelo de conteúdo usa blocos para organizar os elementos essenciais, priori
 
 Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece listando todo o conteúdo que você acha que deve aparecer em uma tela específica. Em seguida, tente organizar as notas adesivas em ordem de importância, de cima para baixo. Isso ajudará a garantir que seus usuários vejam primeiro o conteúdo de maior prioridade. Visualizar essas informações em blocos ajuda a imaginar como elas podem fluir em uma página e o espaço que podem ocupar. Se for muito para uma página, pense no que pode ser removido ou movido para outra página.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
+
+### Projete de dentro para fora
+
+Ao projetar interfaces, é comum começar desenhando a tela inteira e preenchendo-a com elementos, mas isso pode levar a problemas de layout e desviar o foco do conteúdo. A técnica de design de dentro para fora propõe começar com os menores detalhes de conteúdo e expandir para fora. Isso ajuda a criar uma estrutura que se ajusta ao conteúdo, em vez de forçá-lo a caber em um layout predefinido. Essa abordagem mantém o foco no que realmente importa: o conteúdo e sua apresentação eficaz.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Dados do formulário.</p></figcaption></figure>
+
+### Foque nas interações críticas
+
+Para criar wireframes eficazes, comece pelas interações mais críticas do seu produto, como um pedido de compra ou o registro de um novo funcionário. Concentre-se em acertar essas interações principais desde o início, ignorando inicialmente o fluxo completo do usuário. Essa abordagem ajuda a priorizar os elementos mais importantes e garante que as etapas essenciais recebam a atenção necessária. Focar nesses pontos críticos pode melhorar significativamente a experiência do usuário e o sucesso do produto.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Crie uma segunda versão
-
-Comece a fazer a transição das notas anteriores para um esboço de um wireframe. Use a imaginação e reflita sobre as informações que poderiam aparecer em um formulário real, dado o contexto de negócio e as informações levantadas com o usuário final.
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 
 

@@ -20,15 +20,15 @@ Design de Interfaces com Figma e Material UI.
 
 ### **Descrição**
 
-Site dedicado a tutoriais e estudos de caso para criar interfaces usando a biblioteca React Material UI e Figma. Ideal para designers e desenvolvedores UX/UI que desejam se aprofundar em ferramentas profissionais e técnicas de design de interfaces.
+Site dedicado a tutoriais e estudos de caso para projetar interfaces usando a biblioteca React Material UI e Figma. Ideal para designers e desenvolvedores UX/UI que desejam se aprofundar em ferramentas profissionais e técnicas de design de interfaces.
 
 ### **Domínio**
 
-www.figmamaterialui.com.br
+* www.figmamaterialui.com.br
 
 ### **Data de Lançamento**
 
-11 de junho de 2024.
+* 11 de junho de 2024.
 
 ### **Plataformas Utilizadas**
 
@@ -37,7 +37,7 @@ www.figmamaterialui.com.br
 
 ### **Idiomas Disponíveis**
 
-Português (pt-br).
+* Português (pt-br).
 
 ### **Marcas Registradas**
 
@@ -45,8 +45,8 @@ Figma, Material UI, Gitbook, Github, Whimsical e Mobbin são marcas registradas 
 
 ### **Referente Técnico e Desenvolvedor**
 
-[Abilio de Assis](https://www.linkedin.com/in/abilio-assis/).
+* [Abilio de Assis](https://www.linkedin.com/in/abilio-assis/).
 
-{% hint style="info" %}
-Construído com carinho ❤️em Ribeirão Preto (SP).
+{% hint style="success" %}
+Desenvolvido com carinho ❤️em Ribeirão Preto.
 {% endhint %}
