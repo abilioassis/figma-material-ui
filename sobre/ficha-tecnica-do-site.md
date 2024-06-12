@@ -1,10 +1,5 @@
 ---
-cover: ../.gitbook/assets/educatech-hub (2).png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
