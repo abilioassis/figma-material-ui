@@ -45,6 +45,16 @@ Comece a transformar suas notas em esboços de wireframes. Use a imaginação e 
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
+### Projete a interface com o usuário em torno do seu conteúdo
+
+Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais simples e diretas até as mais elaboradas, e solicite feedback dos seus usuários/clientes.
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Wireframe V1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+
 ### Para saber mais
 
 [How to Use Wireframes for Content Modeling](https://balsamiq.com/learn/articles/wireframes-content-modeling/)
