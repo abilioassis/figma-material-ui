@@ -25,6 +25,10 @@ No início de um projeto de design, é tentador ir direto para a interface visua
 
 É mais eficaz deixar que a forma e a estrutura surjam em relação ao conteúdo. Dê ao conteúdo a forma que ele deseja, em vez de forçá-lo a caber em uma estrutura inadequada. Quando os usuários visitam sites, eles buscam informações como preços, horários de funcionamento ou quem gostou de uma postagem recente. Certifique-se de que o conteúdo que você cria é o que seus usuários procuram. Então, decida como apresentá-lo de maneira que ajude os usuários a atingir seus objetivos.
 
+> _"O conteúdo precede o design. Design sem conteúdo não é design, é decoração."_
+>
+> [L. Jeffrey Zeldman](https://zeldman.com/author/admin/).
+
 ### Crie uma primeira versão
 
 Embora não seja o momento de focar na apresentação e layout, não é cedo demais para pensar na informação que você quer fornecer e sua prioridade na interface. Este é um dos primeiros passos no processo chamado modelagem de conteúdo.
@@ -40,10 +44,6 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 Comece a transformar suas notas em esboços de wireframes. Use a imaginação e considere as informações que um formulário real precisaria, com base no contexto de negócios e nos dados obtidos dos usuários finais. Continue avançando sem se prender a detalhes. Esses esboços ajudam a comunicar com os usuários e obter feedback sobre o conteúdo a ser exibido. Quando o conteúdo estiver adequado, você pode começar a trabalhar no layout.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
-
-
-
-### Crie sua interface em torno do conteúdo
 
 ### Para saber mais
 
