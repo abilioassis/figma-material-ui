@@ -27,7 +27,7 @@ No início de um projeto de design, é tentador ir direto para a interface visua
 
 > _"O conteúdo precede o design. Design sem conteúdo não é design, é decoração."_
 >
-> [L. Jeffrey Zeldman](https://zeldman.com/author/admin/).
+> [L. Jeffrey Zeldman](https://zeldman.com/2008/05/06/content-precedes-design/).
 
 ### Crie uma primeira versão
 
