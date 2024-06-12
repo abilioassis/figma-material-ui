@@ -16,8 +16,6 @@ layout:
 
 ### **Nome do Site**
 
-ALTERAÇÃO.
-
 Design de Interfaces com Figma e Material UI.
 
 ### **Descrição**
