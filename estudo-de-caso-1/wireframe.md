@@ -53,7 +53,7 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 ### Para saber mais
 
