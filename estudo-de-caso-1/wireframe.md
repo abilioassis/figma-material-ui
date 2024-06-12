@@ -37,7 +37,7 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 ### Crie uma segunda versão
 
-Comece a fazer a transição das notas anteriores para um esboço de um wireframe. Use a imaginação e reflita sobre as informações que poderiam aparecer em um formulário real, dado o contexto de negócio e as informações levantadas com o usuário final.
+Comece a transformar suas notas em um esboço de wireframe. Use a imaginação e considere as informações que um formulário real precisaria, com base no contexto de negócios e nos dados obtidos dos usuários finais. Continue avançando sem se prender a detalhes. Esses esboços ajudam a comunicar com os usuários e obter feedback sobre o conteúdo a ser exibido. Quando o conteúdo estiver adequado, você pode começar a trabalhar no layout.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
