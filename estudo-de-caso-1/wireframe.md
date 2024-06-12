@@ -51,9 +51,13 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Wireframe V1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+
+Veja como trabalho o desenvolvimento dos modelos de conteúdos e wireframes no Whimscal.
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
 ### Para saber mais
 
