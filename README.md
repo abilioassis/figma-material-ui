@@ -19,8 +19,6 @@ layout:
 
 ### Público Alvo
 
-ALTERAÇÃO.
-
 Qualquer pessoa interessada em aperfeiçoar suas habilidades em design de interfaces.
 
 ### **Metodologia Baseada em Estudos de Caso**
