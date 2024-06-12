@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Design de Interfaces com Figma e Material UI](README.md)
-* [Material UI](material-ui.md)
+
+## Comece rapidamente
+
+* [Material UI](comece-rapidamente/material-ui.md)
 
 ## Estudo de Caso 1
 
