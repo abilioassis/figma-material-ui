@@ -10,7 +10,6 @@
 
 * [Introdução](estudo-de-caso-1/introducao.md)
 * [Wireframe](estudo-de-caso-1/wireframe.md)
-* [Copy of Wireframe](estudo-de-caso-1/wireframe-1.md)
 
 ## Sobre
 
