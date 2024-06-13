@@ -37,7 +37,7 @@ Um modelo de conteúdo usa blocos para organizar os elementos essenciais, priori
 
 Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece listando todo o conteúdo que você acha que deve aparecer em uma tela específica. Em seguida, tente organizar as notas adesivas em ordem de importância, de cima para baixo. Isso ajudará a garantir que seus usuários vejam primeiro o conteúdo de maior prioridade. Visualizar essas informações em blocos ajuda a imaginar como elas podem fluir em uma página e o espaço que podem ocupar. Se for muito para uma página, pense no que pode ser removido ou movido para outra página.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
 
 ### Crie uma segunda versão do modelo de conteúdo
 
@@ -56,6 +56,8 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 Veja como trabalho o desenvolvimento dos modelos de conteúdos e wireframes no Whimscal.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
