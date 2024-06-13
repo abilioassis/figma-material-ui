@@ -48,5 +48,5 @@ Figma, Material UI, Gitbook, Github, Whimsical e Mobbin são marcas registradas 
 * [Abilio de Assis](https://www.linkedin.com/in/abilio-assis/).
 
 {% hint style="success" %}
-Desenvolvido com carinho ❤️em Ribeirão Preto.
+Desenvolvido com carinho ❤️ em Ribeirão Preto.
 {% endhint %}
