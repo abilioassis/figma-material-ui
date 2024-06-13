@@ -72,7 +72,7 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
-Para terminar, veja como eu organizo esses desenhos no Whimscal.
+Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma fica fácil colher feedback dos usuários/clientes durante uma reunião online.
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
