@@ -45,7 +45,7 @@ Comece a transformar suas notas em esboços de wireframes. Use a imaginação e 
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
-### Projete a interface com o usuário em torno do seu conteúdo
+### Projete a interface com o usuário em torno do conteúdo
 
 Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais simples e diretas até as mais elaboradas, e solicite feedback dos seus usuários/clientes.
 
