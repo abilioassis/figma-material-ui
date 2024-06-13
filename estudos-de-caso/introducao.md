@@ -42,7 +42,7 @@ No início de um projeto de design, é tentador ir direto para a interface visua
 >
 > [L. Jeffrey Zeldman](https://zeldman.com/2008/05/06/content-precedes-design/).
 
-## Modelo de conteúdo: crie uma primeira versão
+## Modelo de conteúdo V1: crie uma primeira versão
 
 Embora não seja o momento de focar na apresentação e layout, não é cedo demais para pensar na informação que você quer fornecer e sua prioridade na interface. Este é um dos primeiros passos no processo chamado modelagem de conteúdo.
 
@@ -52,7 +52,7 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
 
-## Modelo de conteúdo: crie uma segunda versão
+## Modelo de conteúdo V2: crie uma segunda versão
 
 Comece a transformar suas notas em esboços de wireframes. Use a imaginação e considere as informações que um formulário real precisaria, com base no contexto de negócios e nos dados obtidos dos usuários finais. Continue avançando sem se prender a detalhes. Esses esboços ajudam a comunicar com os usuários e obter feedback sobre o conteúdo a ser exibido. Quando o conteúdo estiver adequado, você pode começar a trabalhar no layout.
 
@@ -75,6 +75,30 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fica fácil colher feedback dos usuários/clientes durante uma reunião online.
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
+
+## De Wireframes no Whimsical para Protótipos no Figma
+
+Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
+
+## Componentes do Material UI Utilizados no Estudo de Caso 1
+
+### Typography
+
+\<EM DESENVOLVIMENTO>
+
+### Divider
+
+### TextField
+
+### Button
+
+### Icon
+
+### Rating
+
+### Avatar
 
 ## Para saber mais
 
