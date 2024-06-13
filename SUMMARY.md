@@ -8,7 +8,7 @@
 
 ## Estudos de Caso
 
-* [Estudo de caso 1](estudos-de-caso/introducao.md)
+* [aBACAXI](estudos-de-caso/introducao.md)
 
 ## Sobre
 
