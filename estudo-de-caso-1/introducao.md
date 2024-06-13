@@ -31,10 +31,3 @@ A empresa deseja que o formulário contenha os seguintes campos:
 * Mensagem
 
 Além disso, o formulário deve incluir validações básicas para garantir que os dados inseridos pelos usuários sejam válidos. Por exemplo, o campo de e-mail deve ser verificado para garantir que o endereço inserido seja válido, e todos os campos devem ser obrigatórios.
-
-### **Objetivos**
-
-Ao final deste estudo de caso, você será capaz de:
-
-* Criar e estilizar um formulário de contato utilizando componentes do Material UI.
-* Implementar validações básicas para garantir a integridade dos dados.
