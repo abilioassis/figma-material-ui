@@ -57,8 +57,6 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 Veja como trabalho o desenvolvimento dos modelos de conteúdos e wireframes no Whimscal.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
 ### Para saber mais
