@@ -15,7 +15,7 @@ layout:
     visible: false
 ---
 
-# Estudo de caso 1
+# Estudo de Caso 1
 
 Neste primeiro estudo de caso, vamos desenvolver um formulário de contato básico. O objetivo é proporcionar uma introdução prática aos componentes do Material UI, utilizando uma interface simples e funcional. Este estudo de caso é ideal para iniciantes que desejam aprender os conceitos fundamentais do Material UI e aplicá-los em um projeto real.
 
@@ -54,13 +54,13 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 ## Modelo de conteúdo V2: crie uma segunda versão
 
-Comece a transformar suas notas em esboços de wireframes. Use a imaginação e considere as informações que um formulário real precisaria, com base no contexto de negócios e nos dados obtidos dos usuários finais. Continue avançando sem se prender a detalhes. Esses esboços ajudam a comunicar com os usuários e obter feedback sobre o conteúdo a ser exibido. Quando o conteúdo estiver adequado, você pode começar a trabalhar no layout.
+Transforme suas notas em esboços de wireframes. Organize as informações relevantes em uma tabela. Avance sem se prender a detalhes e busque feedback o quanto antes, atualizando o modelo de conteúdo conforme necessário. Separar o conteúdo do design visual (layout, cores, tipografia, imagens) facilita o consenso em reuniões com usuários/clientes. Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para criar uma boa interface.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ## Projete a interface em torno do conteúdo
 
-Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais simples e diretas até as mais elaboradas, e solicite feedback dos seus usuários/clientes.
+Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais simples e diretas até as mais elaboradas, e solicite feedback dos seus usuários/clientes.&#x20;
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Wireframe V1</p></figcaption></figure>
 
@@ -72,7 +72,7 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
-Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fica fácil colher feedback dos usuários/clientes durante uma reunião online.
+Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fica fácil colher feedback dos usuários/clientes durante uma reunião online. Se precisar adicionar algum conteúdo, atualize primeiro o modelo de conteúdo e repita todo o processo.
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
