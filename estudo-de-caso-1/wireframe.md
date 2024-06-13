@@ -43,21 +43,21 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 Comece a transformar suas notas em esboços de wireframes. Use a imaginação e considere as informações que um formulário real precisaria, com base no contexto de negócios e nos dados obtidos dos usuários finais. Continue avançando sem se prender a detalhes. Esses esboços ajudam a comunicar com os usuários e obter feedback sobre o conteúdo a ser exibido. Quando o conteúdo estiver adequado, você pode começar a trabalhar no layout.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ### Projete a interface com o usuário em torno do conteúdo
 
 Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais simples e diretas até as mais elaboradas, e solicite feedback dos seus usuários/clientes.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Wireframe V1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Wireframe V1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 Veja como trabalho o desenvolvimento dos modelos de conteúdos e wireframes no Whimscal.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
 ### Para saber mais
 
