@@ -6,10 +6,10 @@
 
 * [Material UI](comece-rapidamente/material-ui.md)
 
-## Estudo de Caso 1
+## Estudos de Caso
 
-* [Introdução](estudo-de-caso-1/introducao.md)
-* [Wireframe](estudo-de-caso-1/wireframe.md)
+* [Estudo de caso 1](estudos-de-caso/introducao.md)
+* [Wireframe](estudos-de-caso/wireframe.md)
 
 ## Sobre
 
