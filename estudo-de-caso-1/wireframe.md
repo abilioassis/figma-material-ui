@@ -29,7 +29,7 @@ No início de um projeto de design, é tentador ir direto para a interface visua
 >
 > [L. Jeffrey Zeldman](https://zeldman.com/2008/05/06/content-precedes-design/).
 
-### Crie uma primeira versão
+### Modelo de conteúdo: crie uma primeira versão
 
 Embora não seja o momento de focar na apresentação e layout, não é cedo demais para pensar na informação que você quer fornecer e sua prioridade na interface. Este é um dos primeiros passos no processo chamado modelagem de conteúdo.
 
@@ -39,7 +39,7 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
 
-### Crie uma segunda versão
+### Crie uma segunda versão do modelo de conteúdo
 
 Comece a transformar suas notas em esboços de wireframes. Use a imaginação e considere as informações que um formulário real precisaria, com base no contexto de negócios e nos dados obtidos dos usuários finais. Continue avançando sem se prender a detalhes. Esses esboços ajudam a comunicar com os usuários e obter feedback sobre o conteúdo a ser exibido. Quando o conteúdo estiver adequado, você pode começar a trabalhar no layout.
 
