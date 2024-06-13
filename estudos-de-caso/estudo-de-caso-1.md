@@ -56,7 +56,7 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 Transforme suas notas em esboços de wireframes. Organize as informações relevantes em uma tabela. Avance sem se prender a detalhes e busque feedback o quanto antes, atualizando o modelo de conteúdo conforme necessário. Separar o conteúdo do design visual (layout, cores, tipografia, imagens) facilita o consenso em reuniões com usuários/clientes.
 
-Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para criar uma boa interface.
+Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para se criar uma boa interface.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
@@ -68,21 +68,21 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono as melhores e apresento de 2 a 5 opções para o usuário.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
 Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fica fácil colher feedback dos usuários/clientes durante uma reunião online. Se precisar adicionar algum conteúdo, atualize primeiro o modelo de conteúdo e repita todo o processo.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
 ## De Wireframes no Whimsical para Protótipos no Figma
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
 
 ## Componentes do Material UI Utilizados no Estudo de Caso 1
 
