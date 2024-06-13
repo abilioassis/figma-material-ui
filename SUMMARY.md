@@ -9,7 +9,6 @@
 ## Estudos de Caso
 
 * [Estudo de caso 1](estudos-de-caso/introducao.md)
-* [Wireframe](estudos-de-caso/wireframe.md)
 
 ## Sobre
 
