@@ -80,7 +80,7 @@ Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fi
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
 
 ## Componentes do Material UI Utilizados no Estudo de Caso 1
 
