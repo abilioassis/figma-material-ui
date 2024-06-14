@@ -82,9 +82,7 @@ Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo:
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
 
-\<ATUALIZAR IMAGEM>
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
 
 ## Componentes do Material UI Utilizados no Estudo de Caso 1
 
