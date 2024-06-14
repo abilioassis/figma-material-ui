@@ -72,7 +72,7 @@ Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono a
 
 Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 ## De Wireframes no Whimsical para Protótipos no Figma
 

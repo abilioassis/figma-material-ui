@@ -73,6 +73,6 @@ O design de interface do usuário (UI) é uma parte fundamental do design da exp
 * **Relatórios de Pesquisa**: Resultados de entrevistas, testes de usabilidade e outras técnicas de pesquisa com usuários.
 * **Estruturas de Informação**: Organizações hierárquicas e lógicas do conteúdo dentro do produto.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>UI tá dentro de UX.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>UI tá dentro de UX.</p></figcaption></figure>
 
 O foco aqui é o desenvolvimento de interfaces, o cerne do UI Design. Não entraremos em detalhes sobre entrevistas e técnicas de pesquisa com usuários. Nos estudos de caso, assumiremos que esse trabalho já foi feito e fornecerá todos os insumos necessários para criar interfaces eficazes e intuitivas.
