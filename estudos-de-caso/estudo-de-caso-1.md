@@ -58,7 +58,7 @@ Transforme suas notas em esboços de wireframes. Organize as informações relev
 
 Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para se criar uma boa interface.
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ## Projete a interface em torno do conteúdo
 
@@ -68,11 +68,11 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono as melhores e apresento de 2 a 5 opções para o usuário.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
 Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 ## De Wireframes no Whimsical para Protótipos no Figma
 
@@ -81,6 +81,8 @@ Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo:
 {% endhint %}
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
+
+\<ATUALIZAR IMAGEM>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
 
