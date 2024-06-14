@@ -23,7 +23,7 @@ Empresas líderes em tecnologia e inovação utilizam Material UI em seus projet
 
 ## Tipos de Componentes do Material UI
 
-Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis:
+Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis.
 
 ### **Inputs**
 
@@ -59,7 +59,7 @@ Esses componentes serão vistos detalhadamente nos estudos de caso.
 
 ## Produtos da MUI
 
-Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento:
+Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento.
 
 ### **MUI Core**
 
