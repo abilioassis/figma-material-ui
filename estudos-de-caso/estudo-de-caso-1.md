@@ -80,6 +80,10 @@ Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fi
 
 ## De Wireframes no Whimsical para Protótipos no Figma
 
+{% hint style="info" %}
+Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [Material UI for Figma.](../comece-rapidamente/material-ui-for-figma.md)
+{% endhint %}
+
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
