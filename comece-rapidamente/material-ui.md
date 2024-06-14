@@ -21,17 +21,39 @@ Se você está em busca de criar interfaces de usuário modernas, elegantes e fu
 
 Empresas líderes em tecnologia e inovação utilizam Material UI em seus projetos, o que comprova a robustez e a versatilidade dessa biblioteca. Gigantes como **Spotify** e **Netflix** aproveitam os componentes do Material UI para criar interfaces intuitivas e envolventes, garantindo uma experiência de usuário de alta qualidade. Além disso, **Airbnb** e **NASA** confiam na biblioteca para desenvolver soluções que precisam ser tanto visualmente atraentes quanto funcionalmente eficientes.
 
-## Visão Geral dos Tipos de Componentes do Material UI
+## Tipos de Componentes do Material UI
 
 Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis:
 
-1. **Inputs**: Campos de texto, checkboxes, radio buttons, selects, sliders e outros elementos para coleta de dados dos usuários.
-2. **Data Display**: Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
-3. **Feedback**: Diálogos, snackbars, progress indicators e outros componentes para fornecer feedback ao usuário.
-4. **Surface**: Cards, accordions, paper e outros elementos para criar seções distintas e destacar conteúdo.
-5. **Navigation**: Menus, abas, breadcrumbs, toolbars e outros componentes para facilitar a navegação do usuário.
-6. **Layout**: Grid system, boxes, containers e outros elementos para estruturar a página de forma responsiva e organizada.
-7. **Utils**: Componentes utilitários que ajudam na construção e manutenção de interfaces, como popovers, transitions e cssBaseline.
+### **Inputs**
+
+&#x20;Campos de texto, checkboxes, radio buttons, selects, sliders e outros elementos para coleta de dados dos usuários.
+
+### **Data Display**
+
+&#x20;Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
+
+### **Feedback**
+
+Diálogos, snackbars, progress indicators e outros componentes para fornecer feedback ao usuário.
+
+### **Surface**
+
+Cards, accordions, paper e outros elementos para criar seções distintas e destacar conteúdo.
+
+### **Navigation**
+
+Menus, abas, breadcrumbs, toolbars e outros componentes para facilitar a navegação do usuário.
+
+### **Layout**
+
+Grid system, boxes, containers e outros elementos para estruturar a página de forma responsiva e organizada.
+
+### **Utils**
+
+Componentes utilitários que ajudam na construção e manutenção de interfaces, como popovers, transitions e cssBaseline.
+
+***
 
 Esses componentes serão vistos detalhadamente nos estudos de caso.
 
@@ -39,11 +61,17 @@ Esses componentes serão vistos detalhadamente nos estudos de caso.
 
 Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento:
 
-**MUI Core**: É a biblioteca principal, que inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
+### **MUI Core**
 
-**MUI X**: Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais.
+É a biblioteca principal, que inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
 
-**MUI for Figma**: Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados.
+### **MUI X**
+
+: Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais.
+
+### **MUI for Figma**
+
+Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados.
 
 ## Para saber mais
 
