@@ -75,5 +75,5 @@ Este produto é destinado a designers que utilizam o Figma. Ele fornece uma bibl
 
 ## Para saber mais
 
-* [Material Design](https://m3.material.io/)
 * [MUI](https://mui.com/)
+* [Material Design](https://m3.material.io/)
