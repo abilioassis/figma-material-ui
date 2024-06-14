@@ -72,7 +72,7 @@ Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono a
 
 Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fica fácil colher feedback dos usuários/clientes durante uma reunião online. Se precisar adicionar algum conteúdo, atualize primeiro o modelo de conteúdo e repita todo o processo.
 
