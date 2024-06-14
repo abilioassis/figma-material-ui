@@ -31,7 +31,7 @@ Material UI oferece uma extensa variedade de componentes que ajudam a construir 
 
 ### **Data Display**
 
-&#x20;Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
+Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
 
 ### **Feedback**
 
@@ -63,15 +63,15 @@ Além dos componentes, a MUI oferece três principais produtos para atender dife
 
 ### **MUI Core**
 
-É a biblioteca principal, que inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
+É a biblioteca principal. É gratuita e inclui todos os componentes básicos do Material UI. É ideal para a maioria dos projetos que precisam de uma interface de usuário moderna e consistente.
 
 ### **MUI X**
 
-: Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais.
+Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos, como data grids, date pickers e outros elementos que demandam mais funcionalidade e customização. É voltado para aplicações mais sofisticadas que necessitam de recursos adicionais. Não é gratuita.
 
 ### **MUI for Figma**
 
-Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados.
+Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Não é gratuita.
 
 ## Para saber mais
 
