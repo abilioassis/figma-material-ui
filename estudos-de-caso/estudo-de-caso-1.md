@@ -58,7 +58,7 @@ Transforme suas notas em esboços de wireframes. Organize as informações relev
 
 Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para se criar uma boa interface.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ## Projete a interface em torno do conteúdo
 
@@ -73,10 +73,6 @@ Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono a
 Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
-
-Para terminar, veja como eu organizo esses desenhos no Whimscal. Dessa forma, fica fácil colher feedback dos usuários/clientes durante uma reunião online. Se precisar adicionar algum conteúdo, atualize primeiro o modelo de conteúdo e repita todo o processo.
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Modelos de conteúdo e wireframes no Whimsical</p></figcaption></figure>
 
 ## De Wireframes no Whimsical para Protótipos no Figma
 
@@ -108,4 +104,4 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 ## Para saber mais
 
-[How to Use Wireframes for Content Modeling](https://balsamiq.com/learn/articles/wireframes-content-modeling/)
+* [How to Use Wireframes for Content Modeling](https://balsamiq.com/learn/articles/wireframes-content-modeling/)
