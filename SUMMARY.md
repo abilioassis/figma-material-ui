@@ -5,7 +5,6 @@
 ## Comece rapidamente
 
 * [Material UI](comece-rapidamente/material-ui.md)
-* [Material UI for Figma](comece-rapidamente/material-ui-for-figma.md)
 
 ## Estudos de Caso
 

@@ -77,7 +77,7 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 ## De Wireframes no Whimsical a Protótipos no Figma
 
 {% hint style="info" %}
-Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [Material UI for Figma.](../comece-rapidamente/material-ui-for-figma.md)
+Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [Material UI for Figma.](broken-reference)
 {% endhint %}
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
