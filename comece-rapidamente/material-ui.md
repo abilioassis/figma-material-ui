@@ -21,7 +21,7 @@ Se você está em busca de criar interfaces de usuário modernas, elegantes e fu
 
 Empresas líderes em tecnologia e inovação utilizam Material UI em seus projetos, o que comprova a robustez e a versatilidade dessa biblioteca. Gigantes como **Spotify** e **Netflix** aproveitam os componentes do Material UI para criar interfaces intuitivas e envolventes, garantindo uma experiência de usuário de alta qualidade. Além disso, **Airbnb** e **NASA** confiam na biblioteca para desenvolver soluções que precisam ser tanto visualmente atraentes quanto funcionalmente eficientes.
 
-## Tipos de Componentes do Material UI
+## Categorias de Componentes do Material UI
 
 Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis.
 
@@ -59,7 +59,7 @@ Menus, abas, breadcrumbs, pagination e outros componentes para facilitar a naveg
 
 Grid system, boxes, containers e outros elementos para estruturar a página de forma responsiva e organizada.
 
-## Produtos da MUI
+## Produtos Oferecidos pela MUI
 
 Além dos componentes, a MUI oferece três principais produtos para atender diferentes necessidades de desenvolvimento.
 
@@ -75,7 +75,7 @@ Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos
 
 Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Não é gratuita.
 
-## Para saber mais
+## Para Saber Mais
 
 * [MUI](https://mui.com/)
 * [Material Design](https://m3.material.io/)
