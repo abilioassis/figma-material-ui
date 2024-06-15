@@ -29,35 +29,35 @@ Material UI oferece uma extensa variedade de componentes que ajudam a construir 
 
 &#x20;Campos de texto, checkboxes, radio buttons, selects, sliders e outros elementos para coleta de dados dos usuários.
 
-<figure><img src="../.gitbook/assets/inputs-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Entrada de Dados (Inputs)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/inputs-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Entrada de Dados (Inputs). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
 ### **Data Display**
 
 Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
 
+<figure><img src="../.gitbook/assets/data-display-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Exibição de Dados (Data Display). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
+
 ### **Feedback**
 
 Diálogos, snackbars, progress indicators e outros componentes para fornecer feedback ao usuário.
+
+<figure><img src="../.gitbook/assets/feedback-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Feedback. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
 ### **Surface**
 
 Cards, accordions, paper e outros elementos para criar seções distintas e destacar conteúdo.
 
+<figure><img src="../.gitbook/assets/surface-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Superfície (Surface). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
+
 ### **Navigation**
 
 Menus, abas, breadcrumbs, toolbars e outros componentes para facilitar a navegação do usuário.
 
+
+
 ### **Layout**
 
 Grid system, boxes, containers e outros elementos para estruturar a página de forma responsiva e organizada.
-
-### **Utils**
-
-Componentes utilitários que ajudam na construção e manutenção de interfaces, como popovers, transitions e cssBaseline.
-
-***
-
-Esses componentes serão vistos detalhadamente nos estudos de caso.
 
 ## Produtos da MUI
 
