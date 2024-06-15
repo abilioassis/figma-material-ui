@@ -51,9 +51,9 @@ Cards, accordions, paper e outros elementos para criar seções distintas e dest
 
 ### **Navigation**
 
-Menus, abas, breadcrumbs, toolbars e outros componentes para facilitar a navegação do usuário.
+Menus, abas, breadcrumbs, pagination e outros componentes para facilitar a navegação do usuário.
 
-
+<figure><img src="../.gitbook/assets/navigation-overview (1).png" alt=""><figcaption><p>Visão Geral dos Componentes de Navegação (Navigation). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
 ### **Layout**
 
