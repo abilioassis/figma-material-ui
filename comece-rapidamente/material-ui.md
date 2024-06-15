@@ -29,6 +29,8 @@ Material UI oferece uma extensa variedade de componentes que ajudam a construir 
 
 &#x20;Campos de texto, checkboxes, radio buttons, selects, sliders e outros elementos para coleta de dados dos usuários.
 
+<figure><img src="../.gitbook/assets/inputs-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Entrada de Dados (Inputs)</p></figcaption></figure>
+
 ### **Data Display**
 
 Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
