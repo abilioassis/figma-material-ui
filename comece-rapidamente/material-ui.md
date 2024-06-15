@@ -73,7 +73,9 @@ Esta é uma extensão do MUI Core, oferecendo componentes avançados e complexos
 
 ### **MUI for Figma**
 
-Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Não é gratuita.
+Este produto é destinado a designers que utilizam o Figma. Ele fornece uma biblioteca completa de componentes Material UI que podem ser utilizados diretamente no Figma para criar protótipos e designs de alta fidelidade, garantindo que o design e o desenvolvimento estejam perfeitamente alinhados. Existe uma versão gratuita (Community Edition) e uma versão paga.&#x20;
+
+A versão gratuita contém apenas instâncias dos componentes do Material UI, não os componentes de origem. Serve para montar telas rapidamente, mas para personalizações como tipografia, cores ou modo escuro, é necessária a versão completa.
 
 ## Para Saber Mais
 
