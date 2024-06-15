@@ -15,7 +15,7 @@ layout:
     visible: false
 ---
 
-# Estudo de Caso 1
+# Estudo de Caso 1: Desenvolvimento de um Formulário de Contato
 
 Neste primeiro estudo de caso, vamos desenvolver um formulário de contato básico. O objetivo é proporcionar uma introdução prática aos componentes do Material UI, utilizando uma interface simples e funcional. Este estudo de caso é ideal para iniciantes que desejam aprender os conceitos fundamentais do Material UI e aplicá-los em um projeto real.
 
@@ -32,17 +32,17 @@ A empresa deseja que o formulário contenha os seguintes campos:
 
 Além disso, o formulário deve incluir validações básicas para garantir que os dados inseridos pelos usuários sejam válidos. Por exemplo, o campo de e-mail deve ser verificado para garantir que o endereço inserido seja válido, e todos os campos devem ser obrigatórios.
 
-## Comece pelo conteúdo
-
-No início de um projeto de design, é tentador ir direto para a interface visual que você imaginou. A maioria das pessoas pensa no design de interface como desenhar caixas dentro de outras caixas, começando pela janela do aplicativo ou navegador e dividindo em seções menores. No entanto, se você desenhar essas caixas de forma arbitrária, elas não se ajustarão ao conteúdo.
-
-É mais eficaz deixar que a forma e a estrutura surjam em relação ao conteúdo. Dê ao conteúdo a forma que ele deseja, em vez de forçá-lo a caber em uma estrutura inadequada. Quando os usuários visitam sites, eles buscam informações como preços, horários de funcionamento ou quem gostou de uma postagem recente. Certifique-se de que o conteúdo que você cria é o que seus usuários procuram. Então, decida como apresentá-lo de maneira que ajude os usuários a atingir seus objetivos.
+## Iniciando pelo Conteúdo
 
 > _O conteúdo precede o design. Design sem conteúdo não é design, é decoração."_
 >
 > [L. Jeffrey Zeldman](https://zeldman.com/2008/05/06/content-precedes-design/).
 
-## Modelo de conteúdo V1: crie uma primeira versão
+No início de um projeto de design, é tentador ir direto para a interface visual que você imaginou. A maioria das pessoas pensa no design de interface como desenhar caixas dentro de outras caixas, começando pela janela do aplicativo ou navegador e dividindo em seções menores. No entanto, se você desenhar essas caixas de forma arbitrária, elas não se ajustarão ao conteúdo.
+
+É mais eficaz deixar que a forma e a estrutura surjam em relação ao conteúdo. Dê ao conteúdo a forma que ele deseja, em vez de forçá-lo a caber em uma estrutura inadequada. Quando os usuários visitam sites, eles buscam informações como preços, horários de funcionamento ou quem gostou de uma postagem recente. Certifique-se de que o conteúdo que você cria é o que seus usuários procuram. Então, decida como apresentá-lo de maneira que ajude os usuários a atingir seus objetivos.
+
+## Primeira Versão do Modelo de Conteúdo
 
 Embora não seja o momento de focar na apresentação e layout, não é cedo demais para pensar na informação que você quer fornecer e sua prioridade na interface. Este é um dos primeiros passos no processo chamado modelagem de conteúdo.
 
@@ -52,7 +52,7 @@ Você pode fazer isso em um documento de texto ou usar notas adesivas. Comece li
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Modelo de conteúdo V1.</p></figcaption></figure>
 
-## Modelo de conteúdo V2: crie uma segunda versão
+## Segunda Versão do Modelo de Conteúdo
 
 Transforme suas notas em esboços de wireframes. Organize as informações relevantes em uma tabela. Avance sem se prender a detalhes e busque feedback o quanto antes, atualizando o modelo de conteúdo conforme necessário. Separar o conteúdo do design visual (layout, cores, tipografia, imagens) facilita o consenso em reuniões com usuários/clientes.
 
@@ -60,7 +60,7 @@ Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
-## Projete a interface em torno do conteúdo
+## Projetando a interface ao Redor do Conteúdo
 
 Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais simples e diretas até as mais elaboradas, e solicite feedback dos seus usuários/clientes.&#x20;
 
@@ -74,7 +74,7 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
-## De Wireframes no Whimsical para Protótipos no Figma
+## De Wireframes no Whimsical a Protótipos no Figma
 
 {% hint style="info" %}
 Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [Material UI for Figma.](../comece-rapidamente/material-ui-for-figma.md)
@@ -84,7 +84,7 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
 
-## Componentes do Material UI Utilizados no Estudo de Caso 1
+## Componentes do Material UI Utilizados
 
 ### Typography
 

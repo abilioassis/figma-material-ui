@@ -9,7 +9,7 @@
 
 ## Estudos de Caso
 
-* [Estudo de Caso 1](estudos-de-caso/estudo-de-caso-1.md)
+* [Estudo de Caso 1: Desenvolvimento de um Formulário de Contato](estudos-de-caso/estudo-de-caso-1-desenvolvimento-de-um-formulario-de-contato.md)
 
 ## Sobre
 
