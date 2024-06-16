@@ -64,3 +64,7 @@ puts message
 ```
 {% endtab %}
 {% endtabs %}
+
+
+
+{% embed url="https://whimsical.com/modelo-de-conteudo-SdhQXraHbLV1GBzmvfxLBj" %}
