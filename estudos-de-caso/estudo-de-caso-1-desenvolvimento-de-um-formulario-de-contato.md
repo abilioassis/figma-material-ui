@@ -90,15 +90,15 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 ### Typography
 
-Claro! Aqui está a tabela reestruturada:
+#### Estilo: Overline
 
-<table data-header-hidden><thead><tr><th width="130"></th><th></th></tr></thead><tbody><tr><td><strong>Estilo</strong></td><td><strong>Casos de Uso</strong></td></tr><tr><td>Overline</td><td><ul><li><strong>Rótulos de seções:</strong> Utilizado para rotular ou separar seções dentro de um documento ou aplicação.</li><li><strong>Descrições curtas:</strong> Ideal para pequenos textos explicativos ou informações suplementares.</li><li><strong>Indicadores de estado:</strong> Usado para mostrar o estado atual de um item ou processo, como "ativo" ou "completo".</li></ul></td></tr></tbody></table>
+**Casos de Uso:**
 
-Essa tabela destaca o estilo **Overline** e oferece uma explicação detalhada dos casos de uso para maior clareza.
+* **Rótulos de seções:** Utilizado para rotular ou separar seções dentro de um documento ou aplicação.
+* **Descrições curtas:** Ideal para pequenos textos explicativos ou informações suplementares.
+* **Indicadores de estado:** Usado para mostrar o estado atual de um item ou processo, como "ativo" ou "completo".
 
-####
 
-\<EM DESENVOLVIMENTO>
 
 ### Divider
 
