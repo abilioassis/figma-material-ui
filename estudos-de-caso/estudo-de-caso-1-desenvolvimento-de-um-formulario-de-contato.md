@@ -58,7 +58,7 @@ Transforme suas notas em esboços de wireframes. Organize as informações relev
 
 Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para se criar uma boa interface.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ## Projetando a interface ao Redor do Conteúdo
 
@@ -68,11 +68,11 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono as melhores e apresento de 2 a 5 opções para o usuário.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
 Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 ## De Wireframes no Whimsical a Protótipos no Figma
 
@@ -84,13 +84,19 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 <figure><img src="../.gitbook/assets/mapeamento-componentes.png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Mapeamento de Componentes do Wireframe para Componentes do Material UI</p></figcaption></figure>
-
 ## Componentes do Material UI Utilizados
 
 <figure><img src="../.gitbook/assets/componentes-material-ui.png" alt=""><figcaption><p>Componentes do Material UI Utilizados</p></figcaption></figure>
 
 ### Typography
+
+Claro! Aqui está a tabela reestruturada:
+
+<table data-header-hidden><thead><tr><th width="130"></th><th></th></tr></thead><tbody><tr><td><strong>Estilo</strong></td><td><strong>Casos de Uso</strong></td></tr><tr><td>Overline</td><td><ul><li><strong>Rótulos de seções:</strong> Utilizado para rotular ou separar seções dentro de um documento ou aplicação.</li><li><strong>Descrições curtas:</strong> Ideal para pequenos textos explicativos ou informações suplementares.</li><li><strong>Indicadores de estado:</strong> Usado para mostrar o estado atual de um item ou processo, como "ativo" ou "completo".</li></ul></td></tr></tbody></table>
+
+Essa tabela destaca o estilo **Overline** e oferece uma explicação detalhada dos casos de uso para maior clareza.
+
+####
 
 \<EM DESENVOLVIMENTO>
 

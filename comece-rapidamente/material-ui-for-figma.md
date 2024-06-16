@@ -6,9 +6,24 @@ Conceitos Básicos de Espaçamento
 
 Personalizando a Escala de Espaçamento do Material UI
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Valores de espaçamento padrão no Material UI for Figma</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Criação de uma nova linha na tabela de espaçamento do Material UI for Figma</p></figcaption></figure>
 
 
 
+| **Tipo do Componente** | **Variante** | **Casos de Uso**                                                             | **Principais Propriedades**                                                                                                                                                  |
+| ---------------------- | ------------ | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Typography             | overline     | <p>- Rótulos de seções<br>- Descrições curtas<br>- Indicadores de estado</p> | <p>- <strong>font-size:</strong> 10px<br>- <strong>line-height:</strong> 1.6<br>- <strong>letter-spacing:</strong> 1.5px<br>- <strong>text-transform:</strong> uppercase</p> |
+
+#### Descrição das Principais Propriedades
+
+* **font-size:** Define o tamanho da fonte, que é geralmente menor para a variante overline para manter a discrição.
+* **line-height:** Define a altura da linha, proporcionando um espaçamento adequado entre linhas de texto.
+* **letter-spacing:** Ajusta o espaçamento entre letras, comumente aumentado para a variante overline para melhorar a legibilidade.
+* **text-transform:** Aplica a transformação de texto, frequentemente definida como uppercase para destacar a overline de maneira sutil.
+
+Essa tabela resume as características principais da variante **Overline**, destacando seus usos e propriedades chave para facilitar o design e a implementação em projetos utilizando o Material UI.
 
 <mark style="color:green;">`POST`</mark> `/users`
 
