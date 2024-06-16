@@ -86,11 +86,9 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 ## Componentes do Material UI Utilizados
 
-<figure><img src="../.gitbook/assets/componentes-material-ui.png" alt=""><figcaption><p>Componentes do Material UI Utilizados</p></figcaption></figure>
-
 ### Typography
 
-#### Estilo: Overline
+#### Estilos utilizados: h1 e overline
 
 **Casos de Uso:**
 
@@ -103,6 +101,8 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 ### Divider
 
 ### TextField
+
+<figure><img src="../.gitbook/assets/text-field.png" alt=""><figcaption><p>Variações do componente &#x3C;Text Field>. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI for Figma Community Edition</a>.</p></figcaption></figure>
 
 ### Button
 
