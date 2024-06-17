@@ -82,7 +82,13 @@ Os conceitos de acessibilidade para designers são apresentados no artigo: [Como
 
 A acessibilidade começa no design. Podemos aproveitar o momento em que estamos criando os wireframes para já incorporar práticas de acessibilidade, garantindo que todos os usuários tenham uma experiência inclusiva e eficiente.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe.</p></figcaption></figure>
+### Landmarks e Cabeçalhos
+
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Anotações de landmarks e cabeçalhos no Wireframe</p></figcaption></figure>
+
+## Ordem de Foco e Ordem de Leitura
+
+
 
 ## De Wireframes no Whimsical a Protótipos no Figma
 
