@@ -93,7 +93,7 @@ A acessibilidade começa no design. Podemos aproveitar o momento em que estamos 
 ## De Wireframes no Whimsical a Protótipos no Figma
 
 {% hint style="info" %}
-Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [Como Trabalhar Acessibilidade no Design](../comece-rapidamente/como-trabalhar-acessibilidade-no-design.md).
+Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [O Essencial Sobre Material UI for Figma](../comece-rapidamente/o-essencial-sobre-material-ui.md).
 {% endhint %}
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.
