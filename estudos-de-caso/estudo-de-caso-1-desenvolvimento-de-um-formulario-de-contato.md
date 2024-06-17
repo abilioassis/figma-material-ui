@@ -70,17 +70,17 @@ Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono a
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
-Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
+Combinando os blocos de conteúdo é possível criar diversos wireframes.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
-## Adicione Anotações de Acessibilidade
-
-
+## Incorpore Acessibilidade no Design
 
 {% hint style="info" %}
-Os conceitos de acessibilidade para designers são apresentados no artigo:[ Acessibilidade para Designers](../comece-rapidamente/como-trabalhar-acessibilidade-no-ui-design.md).
+Os conceitos de acessibilidade para designers são apresentados no artigo: [Como Trabalhar Acessibilidade no UI Design](../comece-rapidamente/como-trabalhar-acessibilidade-no-ui-design.md).
 {% endhint %}
+
+A acessibilidade começa no design. Podemos aproveitar o momento em que estamos criando os wireframes para já incorporar práticas de acessibilidade, garantindo que todos os usuários tenham uma experiência inclusiva e eficiente.
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe.</p></figcaption></figure>
 
