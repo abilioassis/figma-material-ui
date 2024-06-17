@@ -84,9 +84,11 @@ A acessibilidade começa no design. Podemos aproveitar o momento em que estamos 
 
 ### Landmarks e Cabeçalhos
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Anotações de landmarks e cabeçalhos no Wireframe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
-## Ordem de Foco e Ordem de Leitura
+### Ordens de Foco (F), Leitura (L) e Texto Alternativo (alt)
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
 
 
