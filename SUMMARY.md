@@ -6,7 +6,7 @@
 
 * [O Essencial Sobre Material UI](comece-rapidamente/o-essencial-sobre-material-ui.md)
 * [O Essencial Sobre Material UI for Figma](comece-rapidamente/o-essencial-sobre-material-ui-for-figma.md)
-* [Como Trabalhar Acessibilidade no UI Design](comece-rapidamente/como-trabalhar-acessibilidade-no-ui-design.md)
+* [Como Trabalhar Acessibilidade no Design](comece-rapidamente/como-trabalhar-acessibilidade-no-design.md)
 
 ## Estudos de Caso
 

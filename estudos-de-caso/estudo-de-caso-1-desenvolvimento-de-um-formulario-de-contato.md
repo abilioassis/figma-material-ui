@@ -77,7 +77,7 @@ Combinando os blocos de conteúdo é possível criar diversos wireframes.
 ## Incorpore Acessibilidade no Design
 
 {% hint style="info" %}
-Os conceitos de acessibilidade para designers são apresentados no artigo: [Como Trabalhar Acessibilidade no UI Design](../comece-rapidamente/como-trabalhar-acessibilidade-no-ui-design.md).
+Os conceitos básicos de acessibilidade para designers são apresentados no artigo: [Como Trabalhar Acessibilidade no Design](../comece-rapidamente/como-trabalhar-acessibilidade-no-design.md).
 {% endhint %}
 
 A acessibilidade começa no design. Podemos aproveitar o momento em que estamos criando os wireframes para já incorporar práticas de acessibilidade, garantindo que todos os usuários tenham uma experiência inclusiva e eficiente.
@@ -88,7 +88,7 @@ A acessibilidade começa no design. Podemos aproveitar o momento em que estamos 
 
 ### Ordens de Foco (F), Leitura (L) e Texto Alternativo (alt)
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
 
 
