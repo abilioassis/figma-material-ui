@@ -4,8 +4,9 @@
 
 ## Comece rapidamente
 
-* [Material UI](comece-rapidamente/material-ui.md)
-* [Material UI for Figma](comece-rapidamente/material-ui-for-figma.md)
+* [O que você precisa saber sobre Material UI](comece-rapidamente/o-que-voce-precisa-saber-sobre-material-ui.md)
+* [O que você precisa saber sobre Material UI for Figma](comece-rapidamente/o-que-voce-precisa-saber-sobre-material-ui-for-figma.md)
+* [Como trabalhar a acessibilidade no UI Design](comece-rapidamente/como-trabalhar-a-acessibilidade-no-ui-design.md)
 
 ## Estudos de Caso
 

@@ -74,6 +74,16 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
+## Adicione Anotações de Acessibilidade
+
+
+
+{% hint style="info" %}
+Os conceitos de acessibilidade para designers são apresentados no artigo:[ Acessibilidade para Designers](../comece-rapidamente/como-trabalhar-a-acessibilidade-no-ui-design.md).
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe.</p></figcaption></figure>
+
 ## De Wireframes no Whimsical a Protótipos no Figma
 
 {% hint style="info" %}
@@ -102,7 +112,9 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 ### TextField
 
-<figure><img src="../.gitbook/assets/text-field.png" alt=""><figcaption><p>Variações do componente &#x3C;Text Field>. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI for Figma Community Edition</a>.</p></figcaption></figure>
+O componente TextField no MUI é uma entrada de texto combinada com rótulo, ajudando na coleta de dados dos usuários em formulários.
+
+<figure><img src="../.gitbook/assets/text-field.png" alt=""><figcaption><p>Variações do componente Text Field. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI for Figma Community Edition</a>.</p></figcaption></figure>
 
 ### Button
 
