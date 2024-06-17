@@ -86,7 +86,7 @@ A acessibilidade começa no design. Podemos aproveitar o momento em que estamos 
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
-### Ordens de Leitura, Foco e Texto Alternativo
+### Ordem de Leitura, Ordem de Foco e Texto Alternativo
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
@@ -104,21 +104,9 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 ### Typography
 
-#### Estilos utilizados: h1 e overline
-
-**Casos de Uso:**
-
-* **Rótulos de seções:** Utilizado para rotular ou separar seções dentro de um documento ou aplicação.
-* **Descrições curtas:** Ideal para pequenos textos explicativos ou informações suplementares.
-* **Indicadores de estado:** Usado para mostrar o estado atual de um item ou processo, como "ativo" ou "completo".
-
-
-
 ### Divider
 
 ### TextField
-
-O componente TextField no MUI é uma entrada de texto combinada com rótulo, ajudando na coleta de dados dos usuários em formulários.
 
 ### Button
 
