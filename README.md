@@ -17,6 +17,8 @@ layout:
 
 # Design de Interfaces com Figma e Material UI
 
+<figure><img src=".gitbook/assets/hero.png" alt="&#x22;&#x22;"><figcaption></figcaption></figure>
+
 ## Quem Pode se Beneficiar?
 
 Qualquer pessoa interessada em aperfeiçoar suas habilidades em design de interfaces.
