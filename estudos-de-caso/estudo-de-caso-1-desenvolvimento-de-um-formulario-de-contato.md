@@ -86,11 +86,9 @@ A acessibilidade começa no design. Podemos aproveitar o momento em que estamos 
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
-### Ordens de Foco (F), Leitura (L) e Texto Alternativo (alt)
+### Ordens de Leitura, Foco e Texto Alternativo
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe</p></figcaption></figure>
 
 ## De Wireframes no Whimsical a Protótipos no Figma
 
@@ -121,8 +119,6 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 ### TextField
 
 O componente TextField no MUI é uma entrada de texto combinada com rótulo, ajudando na coleta de dados dos usuários em formulários.
-
-<figure><img src="../.gitbook/assets/text-field.png" alt=""><figcaption><p>Variações do componente Text Field. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI for Figma Community Edition</a>.</p></figcaption></figure>
 
 ### Button
 
