@@ -79,7 +79,7 @@ Combinando os blocos de conteúdo fica fácil criar diversos wireframes.
 
 
 {% hint style="info" %}
-Os conceitos de acessibilidade para designers são apresentados no artigo:[ Acessibilidade para Designers](../comece-rapidamente/como-trabalhar-a-acessibilidade-no-ui-design.md).
+Os conceitos de acessibilidade para designers são apresentados no artigo:[ Acessibilidade para Designers](../comece-rapidamente/como-trabalhar-acessibilidade-no-ui-design.md).
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe.</p></figcaption></figure>
