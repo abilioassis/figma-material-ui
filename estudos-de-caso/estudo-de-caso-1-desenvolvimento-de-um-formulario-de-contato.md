@@ -58,7 +58,7 @@ Transforme suas notas em esboços de wireframes. Organize as informações relev
 
 Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para se criar uma boa interface.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ## Projetando a interface ao Redor do Conteúdo
 
@@ -68,11 +68,11 @@ Com base no conteúdo, desenvolva várias versões de wireframes, desde as mais 
 
 Eu costumo criar entre 3 a 10 versões para uma única tela. Depois, seleciono as melhores e apresento de 2 a 5 opções para o usuário.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Wireframe V2</p></figcaption></figure>
 
 Combinando os blocos de conteúdo é possível criar diversos wireframes.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Wireframe V3</p></figcaption></figure>
 
 ## Incorpore Acessibilidade no Design
 
@@ -82,7 +82,7 @@ Os conceitos de acessibilidade para designers são apresentados no artigo: [Como
 
 A acessibilidade começa no design. Podemos aproveitar o momento em que estamos criando os wireframes para já incorporar práticas de acessibilidade, garantindo que todos os usuários tenham uma experiência inclusiva e eficiente.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Anotações de acessibilidade no wireframe.</p></figcaption></figure>
 
 ## De Wireframes no Whimsical a Protótipos no Figma
 
