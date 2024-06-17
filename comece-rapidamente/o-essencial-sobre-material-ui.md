@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# O que você precisa saber sobre Material UI
+# O Essencial Sobre Material UI
 
 Se você está em busca de criar interfaces de usuário modernas, elegantes e funcionais, a biblioteca Material UI é a escolha certa. Baseada no design system do Google, Material UI oferece uma ampla gama de componentes prontos para uso, todos seguindo as diretrizes do Material Design. Essa biblioteca é uma das mais populares para desenvolvedores que utilizam React, pois facilita a criação de interfaces responsivas e acessíveis sem sacrificar a estética.
 
@@ -25,37 +25,37 @@ Empresas líderes em tecnologia e inovação utilizam Material UI em seus projet
 
 Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis.
 
-### **Inputs**
+### **Componentes de Entrada de Dados (Inputs)**
 
 &#x20;Campos de texto, checkboxes, radio buttons, selects, sliders e outros elementos para coleta de dados dos usuários.
 
 <figure><img src="../.gitbook/assets/inputs-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Entrada de Dados (Inputs). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-### **Data Display**
+### **Componentes de Exibição de Dados (Data Display)**
 
 Tabelas, listas, avatares, badges, tooltips e outros componentes para exibir informações de maneira clara e acessível.
 
 <figure><img src="../.gitbook/assets/data-display-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Exibição de Dados (Data Display). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-### **Feedback**
+### **Componentes de Feedback**
 
 Diálogos, snackbars, progress indicators e outros componentes para fornecer feedback ao usuário.
 
 <figure><img src="../.gitbook/assets/feedback-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Feedback. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-### **Surface**
+### **Componentes de Superfície (Surface)**
 
 Cards, accordions, paper e outros elementos para criar seções distintas e destacar conteúdo.
 
 <figure><img src="../.gitbook/assets/surface-overview.png" alt=""><figcaption><p>Visão Geral dos Componentes de Superfície (Surface). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-### **Navigation**
+### **Componentes de Navegação (Navigation)**
 
 Menus, abas, breadcrumbs, pagination e outros componentes para facilitar a navegação do usuário.
 
 <figure><img src="../.gitbook/assets/navigation-overview (1).png" alt=""><figcaption><p>Visão Geral dos Componentes de Navegação (Navigation). Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-### **Layout**
+### **Componentes de Layout**
 
 Grid system, boxes, containers e outros elementos para estruturar a página de forma responsiva e organizada.
 
