@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# Material UI
+# O que você precisa saber sobre Material UI
 
 Se você está em busca de criar interfaces de usuário modernas, elegantes e funcionais, a biblioteca Material UI é a escolha certa. Baseada no design system do Google, Material UI oferece uma ampla gama de componentes prontos para uso, todos seguindo as diretrizes do Material Design. Essa biblioteca é uma das mais populares para desenvolvedores que utilizam React, pois facilita a criação de interfaces responsivas e acessíveis sem sacrificar a estética.
 
@@ -21,7 +21,7 @@ Se você está em busca de criar interfaces de usuário modernas, elegantes e fu
 
 Empresas líderes em tecnologia e inovação utilizam Material UI em seus projetos, o que comprova a robustez e a versatilidade dessa biblioteca. Gigantes como **Spotify** e **Netflix** aproveitam os componentes do Material UI para criar interfaces intuitivas e envolventes, garantindo uma experiência de usuário de alta qualidade. Além disso, **Airbnb** e **NASA** confiam na biblioteca para desenvolver soluções que precisam ser tanto visualmente atraentes quanto funcionalmente eficientes.
 
-## Categorias de Componentes do Material UI
+## Componentes do Material UI
 
 Material UI oferece uma extensa variedade de componentes que ajudam a construir aplicações web completas e consistentes. Aqui estão algumas das principais categorias de componentes disponíveis.
 
