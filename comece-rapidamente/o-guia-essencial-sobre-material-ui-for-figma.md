@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
 
-Os estilos de texto no Material UI utilizam a fonte Roboto, seguindo as definições tipográficas do Material Design 2. Esses estilos abrangem títulos (h1..h6), corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
+Os estilos de texto no Material UI utilizam a fonte Roboto, seguindo as definições tipográficas do Material Design 2 (o Material Design 3 redefine completamente esses estilos de texto tornando-os mais descritivos e fáceis de utilizar). Esses estilos abrangem títulos (h1..h6), corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
 É essencial que os designers usem esses estilos padrão, pois estão diretamente integrados ao tema do Material UI no Figma. Se precisar personalizar algum estilo, atualize o arquivo de tema usado pelos desenvolvedores nas aplicações React.
 
@@ -14,7 +14,7 @@ Preste atenção na altura da linha ao ajustar estilos no Material UI. Essas alt
 
 ### Estilos de Texto e HTML Semântico
 
-Os estilos de texto h1 a h6 no Material UI for Figma podem ser confusos. No HTML5, esses termos têm significados específicos e seguem boas práticas do W3C. No Figma, os designers usam esses títulos principalmente para criar uma hierarquia visual, não necessariamente seguindo a mesma hierarquia semântica do HTML.
+Os estilos de texto h1 a h6 no Material UI for Figma podem gerar confusão, pois no HTML5 esses termos têm significados específicos. No Figma, os designers usam esses títulos principalmente para criar uma hierarquia visual, não necessariamente seguindo a mesma hierarquia semântica do HTML.
 
 No HTML, o h1 é para o título principal da página, seguido por h2 para subseções importantes, e assim por diante. Isso facilita a navegação e compreensão para pessoas com deficiência, conforme recomendações do Comitê de Acessibilidade do W3C. No Figma, o designer pode usar o estilo h1 para destacar visualmente uma seção importante, mas não necessariamente o título principal.
 
@@ -22,7 +22,7 @@ Por exemplo, ao projetar um site de notícias no Figma, o designer pode usar h1 
 
 Quando houver discrepância entre os estilos do Figma e a semântica HTML, o designer pode adicionar notas ao design. Por exemplo, se quiser que um texto tenha o estilo h3 no Figma, mas seja renderizado como `<h4>` no HTML, adicione uma nota explicando essa especificação. Isso garante que os desenvolvedores compreendam a intenção do design e apliquem os estilos corretamente.
 
-### Mapeamento de Estilos para HTML no Material UI
+### Mapeamento de Estilos Figma para HTML
 
 | Figma     | HTML   |
 | --------- | ------ |
@@ -36,8 +36,6 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 | subtitle2 | `<h6>` |
 | body1     | `<p>`  |
 | body2     | `<p>`  |
-
-Embora o Material Design 3 redefina completamente os estilos de texto, o Material UI (versão 5.15.X) segue as diretrizes do Material Design 2
 
 Casos de uso para cada estilo.
 
