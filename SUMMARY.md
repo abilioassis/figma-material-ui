@@ -6,7 +6,7 @@
 
 * [O Guia Essencial Sobre Material UI](comece-rapidamente/o-guia-essencial-sobre-material-ui.md)
 * [O Guia Essencial Sobre Material UI for Figma](comece-rapidamente/o-guia-essencial-sobre-material-ui-for-figma.md)
-* [O Essencial Sobre Acessibilidade para Designers](comece-rapidamente/o-essencial-sobre-acessibilidade-para-designers.md)
+* [O Guia Essencial Sobre Acessibilidade para Designers](comece-rapidamente/o-guia-essencial-sobre-acessibilidade-para-designers.md)
 
 ## Estudos de Caso
 
