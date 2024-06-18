@@ -43,7 +43,7 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 | body1     | `<p>`  |
 | body2     | `<p>`  |
 
-## Como usar os estilos de Texto
+## Como Usar os Estilos de Texto
 
 * **Títulos (h1 - h6):** reservado para informações curtas e importantes.
 * **Subtítulos (subtitle):** são menores que os títulos. Eles são tipicamente reservados para textos de ênfase média e de menor extensão.
