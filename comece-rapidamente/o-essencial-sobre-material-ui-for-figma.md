@@ -8,14 +8,14 @@ description: <EM CONSTRUÇÃO>
 
 Todos os estilos utilizam a fonte **Roboto** e estão alinhados às definições tipográficas do Material Design 2. Os estilos são:
 
-| h1        | h2        |
-| --------- | --------- |
-| h3        | h4        |
-| h5        | h6        |
-| subtitle1 | subtitle2 |
-| body1     | body2     |
-| button    | caption   |
-| overline  |           |
+| h1: 96px        | h2: 60px        |
+| --------------- | --------------- |
+| h3: 48px        | h4: 34px        |
+| h5: 24px        | h6: 20px        |
+| subtitle1: 16px | subtitle2: 14px |
+| body1: 16px     | body2: 14px     |
+| BUTTON: 14px    | caption: 12px   |
+| OVERLINE: 10px  |                 |
 
 
 
