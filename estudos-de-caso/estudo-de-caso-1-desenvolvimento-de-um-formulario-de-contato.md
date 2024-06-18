@@ -77,7 +77,7 @@ Combinando os blocos de conteúdo é possível criar diversos wireframes.
 ## Incorpore Acessibilidade no Design
 
 {% hint style="info" %}
-Os conceitos básicos de acessibilidade para designers são apresentados no artigo: [O Essencial Sobre Acessibilidade para Designers](../comece-rapidamente/o-essencial-sobre-material-ui.md).
+Os conceitos básicos de acessibilidade para designers são apresentados no artigo: [O Essencial Sobre Acessibilidade para Designers](../comece-rapidamente/o-guia-essencial-sobre-material-ui.md).
 {% endhint %}
 
 A acessibilidade começa no design. Podemos aproveitar o momento em que estamos criando os wireframes para já incorporar práticas de acessibilidade, garantindo que todos os usuários tenham uma experiência inclusiva e eficiente.
@@ -93,7 +93,7 @@ A acessibilidade começa no design. Podemos aproveitar o momento em que estamos 
 ## De Wireframes no Whimsical a Protótipos no Figma
 
 {% hint style="info" %}
-Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [O Essencial Sobre Material UI for Figma](../comece-rapidamente/o-essencial-sobre-material-ui.md).
+Uma apresentação do UI Kit do Figma para Material UI pode ser vista no artigo: [O Essencial Sobre Material UI for Figma](../comece-rapidamente/o-guia-essencial-sobre-material-ui.md).
 {% endhint %}
 
 Vamos usar a última versão do wireframe (V3) como base para começar o desenvolvimento do protótipo no Figma. Como passo inicial, mapeamos cada componente do wireframe para os componentes do Material UI.

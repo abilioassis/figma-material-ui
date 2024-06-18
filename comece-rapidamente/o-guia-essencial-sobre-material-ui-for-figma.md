@@ -1,6 +1,6 @@
 # O Guia Essencial Sobre Material UI for Figma
 
-Todos os estilos de texto no Material UI utilizam a fonte Roboto, alinhando-se às definições tipográficas do Material Design 2. Esses estilos abrangem desde títulos (h1..h6) até elementos como corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption). Adicionalmente, há estilos específicos para componentes como botões, DataPickers, menus, tabelas, entre outros.
+Todos os estilos de texto no Material UI utilizam a fonte **Roboto**, alinhando-se às definições tipográficas do Material Design 2. Esses estilos abrangem desde títulos (h1..h6) até elementos como corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption). Adicionalmente, há estilos específicos para componentes como botões, DataPickers, menus, tabelas, entre outros.
 
 É crucial que os designers usem esses estilos padrão, pois eles estão diretamente integrados ao tema do Material UI no Figma. Caso seja necessário personalizar algum estilo, é essencial atualizar o arquivo de tema utilizado pelos desenvolvedores na construção das aplicações React.
 
