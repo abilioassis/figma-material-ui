@@ -6,6 +6,8 @@ description: <EM CONSTRUÇÃO>
 
 ## Tipografia
 
+### Estilos de Texto
+
 Todos os estilos utilizam a fonte **Roboto** e estão alinhados às definições tipográficas do Material Design 2. Os estilos básicos se referem a:
 
 * **Títulos** (h1..h6).
@@ -29,7 +31,7 @@ Além disso, ao personalizar os estilos no Material UI, é crucial prestar aten�
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
 
-
+### Estilos de Texto e HTML Semântico
 
 
 
