@@ -23,11 +23,11 @@ Também existem estilos de texto que são específicos para alguns componentes, 
 
 É fundamental que os designers se atenham aos estilos fornecidos, uma vez que esses estilos do Figma estão diretamente integrados ao tema do Material UI. Caso haja necessidade de alteração em algum estilo, é imprescindível atualizar o arquivo de tema utilizado pelos desenvolvedores na construção das aplicações React.&#x20;
 
-É bastante comum utilizar fontes que estejam alinhadas à identidade visual da marca. Para garantir essa consistência, é necessário atualizar a fonte de todos os estilos mencionados. Uma alternativa eficiente para realizar essa tarefa é utilizar o plugin do Figma **Batch Styler,** que facilita a aplicação de estilos em larga escala de forma rápida e precisa.
+É bastante comum utilizar fontes que estejam alinhadas à identidade visual da marca para o qual está se desenvolvendo o aplicativo. Para garantir essa consistência, é necessário atualizar a fonte de todos os estilos mencionados. Uma alternativa eficiente para realizar essa tarefa é utilizar o plugin do Figma **Batch Styler,** que facilita a aplicação de estilos em larga escala de forma rápida e precisa.
 
 Além disso, ao personalizar os estilos no Material UI, é crucial prestar atenção na altura da linha. No Material UI, as alturas das linhas são múltiplos de 4px, proporcionando um enquadramento perfeito em um grid de 4px. Isso contribui para uma interface visualmente alinhada, harmoniosa e alinhada às recomendações do Material Design.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personaliza e não se encaixa no grid.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
 
 
 
