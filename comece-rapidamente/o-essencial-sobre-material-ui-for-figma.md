@@ -8,16 +8,7 @@ description: <EM CONSTRUÇÃO>
 
 Todos os estilos utilizam a fonte **Roboto** e estão alinhados às definições tipográficas do Material Design 2. Os estilos são:
 
-| h1: 96px        | h2: 60px        |
-| --------------- | --------------- |
-| h3: 48px        | h4: 34px        |
-| h5: 24px        | h6: 20px        |
-| subtitle1: 16px | subtitle2: 14px |
-| body1: 16px     | body2: 14px     |
-| BUTTON: 14px    | caption: 12px   |
-| OVERLINE: 10px  |                 |
-
-
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Estilos de texto disponibilizados na <a href="https://www.figma.com/community/file/912837788133317724">Material UI for Figma</a>.</p></figcaption></figure>
 
 Quais os estilos de fontes disponíveis?
 
