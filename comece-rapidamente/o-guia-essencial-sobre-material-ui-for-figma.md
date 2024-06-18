@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
 
-Os estilos de texto no Material UI utilizam a fonte Roboto, seguindo as definições tipográficas do Material Design 2 (o Material Design 3 redefine completamente esses estilos de texto tornando-os mais descritivos e fáceis de utilizar). Esses estilos abrangem títulos (h1..h6), corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
+Os estilos de texto no Material UI utilizam a fonte Roboto, seguindo as definições tipográficas do **Material Design 2**. Esses estilos abrangem títulos (h1..h6), corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
 É essencial que os designers usem esses estilos padrão, pois estão diretamente integrados ao tema do Material UI no Figma. Se precisar personalizar algum estilo, atualize o arquivo de tema usado pelos desenvolvedores nas aplicações React.
 
