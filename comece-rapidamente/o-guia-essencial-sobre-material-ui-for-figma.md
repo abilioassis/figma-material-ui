@@ -58,10 +58,10 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 
 ## Para Saber Mais
 
-* [A escala tipográfica no Material Design 2](https://m2.material.io/design/typography/the-type-system.html#type-scale).
+* [A escala tipográfica no Material Design 2](https://m2.material.io/design/typography/the-type-system.html#type-scale)
 * [O componente Typography no Material UI](https://mui.com/material-ui/react-typography/)
-* [Plugin Batch Styler para o Figma](https://www.figma.com/community/plugin/818203235789864127/batch-styler).
-* [Plugin Material UI Sync para o Figma](https://www.figma.com/community/plugin/1336346114713490235/material-ui-sync).
+* [Plugin Batch Styler para o Figma](https://www.figma.com/community/plugin/818203235789864127/batch-styler)
+* [Plugin Material UI Sync para o Figma](https://www.figma.com/community/plugin/1336346114713490235/material-ui-sync)
 
 
 
