@@ -10,7 +10,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
 
-Os estilos de texto no Material UI utilizam a fonte Roboto, seguindo as definições tipográficas do **Material Design 2**. Esses estilos abrangem títulos (h1..h6), corpo de texto (body1 e body2), subtítulos (subtitle1 e subtitle2), linha superior (overline) e legenda (caption), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
+Os estilos de texto no Material UI utilizam a fonte **Roboto**, seguindo as definições tipográficas do **Material Design 2**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
 É essencial que os designers usem esses estilos padrão, pois estão diretamente relacionados ao tema do Material UI usados pelos desenvolvedores. Se precisar personalizar algum estilo, será necessário atualizar o arquivo de tema usado no desenvolvimento das aplicações React. Isso pode ser feito usando o **Material UI Sync plugin** do Figma**.**
 
@@ -58,6 +58,8 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 
 ## Para Saber Mais
 
+* [A escala tipográfica no Material Design 2](https://m2.material.io/design/typography/the-type-system.html#type-scale).
+* [O componente Typography no Material UI](https://mui.com/material-ui/react-typography/)
 * [Plugin Batch Styler para o Figma](https://www.figma.com/community/plugin/818203235789864127/batch-styler).
 * [Plugin Material UI Sync para o Figma](https://www.figma.com/community/plugin/1336346114713490235/material-ui-sync).
 
