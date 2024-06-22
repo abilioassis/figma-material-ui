@@ -8,16 +8,17 @@ description: >-
 
 ## Breakpoints
 
-|                                                                                                                              |                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> | <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> |
-| <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> | <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> |
-| <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> |                                                                                                                              |
+São pontos definidos onde o layout muda para se adaptar a diferentes tamanhos de tela, como em celulares, tablets e desktops. No Material são definidos 5 breakpoints:
 
-* **xs: extra-small**
-  * min-width: 0
-  * default: 375px
-  * max-width: 444px
+* `xs`: extra-small.
+* `sm`: small.
+* md: medium.
+* `lg`: large.
+* `xl`: extra-large.
+
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Breakpoints default no Material UI</p></figcaption></figure>
+
+
 
 ## Grids
 
