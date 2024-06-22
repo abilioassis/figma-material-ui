@@ -10,7 +10,7 @@ description: >-
 
 
 
-<table><thead><tr><th>Breakpoint</th><th>min-width</th><th data-type="number">default</th><th>max-widht</th></tr></thead><tbody><tr><td>xs</td><td>0</td><td>375</td><td>444px</td></tr><tr><td></td><td></td><td>null</td><td></td></tr><tr><td></td><td></td><td>null</td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Breakpoint</th><th>min-width</th><th>default</th><th>max-widht</th></tr></thead><tbody><tr><td>xs</td><td>0</td><td>375</td><td>444px</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## Grids
 
