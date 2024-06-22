@@ -10,7 +10,7 @@ description: >-
 
 
 
-<table data-full-width="false"><thead><tr><th width="100">Breakpoint</th><th width="100">min-width</th><th width="100">default</th><th width="100">max-widht</th></tr></thead><tbody><tr><td>xs</td><td>0</td><td>375</td><td>444px</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="100">Breakpoint</th><th width="100">min-width</th><th width="100">default</th><th width="100">max-widht</th></tr></thead><tbody><tr><td>xs</td><td>0</td><td>375</td><td>444px</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## Grids
 
@@ -40,7 +40,18 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 
 ## Mapeamento de Estilos Figma para HTML
 
-<table><thead><tr><th width="100">Figma</th><th width="100">HTML</th></tr></thead><tbody><tr><td>h1</td><td><code>&#x3C;h1></code></td></tr><tr><td>h2</td><td><code>&#x3C;h2></code></td></tr><tr><td>h3</td><td><code>&#x3C;h3></code></td></tr><tr><td>h4</td><td><code>&#x3C;h4></code></td></tr><tr><td>h5</td><td><code>&#x3C;h5></code></td></tr><tr><td>h6</td><td><code>&#x3C;h6></code></td></tr><tr><td>subtitle1</td><td><code>&#x3C;h6></code></td></tr><tr><td>subtitle2</td><td><code>&#x3C;h6></code></td></tr><tr><td>body1</td><td><code>&#x3C;p></code></td></tr><tr><td>body2</td><td><code>&#x3C;p></code></td></tr></tbody></table>
+| Figma     | HTML   |
+| --------- | ------ |
+| h1        | `<h1>` |
+| h2        | `<h2>` |
+| h3        | `<h3>` |
+| h4        | `<h4>` |
+| h5        | `<h5>` |
+| h6        | `<h6>` |
+| subtitle1 | `<h6>` |
+| subtitle2 | `<h6>` |
+| body1     | `<p>`  |
+| body2     | `<p>`  |
 
 ## Como Usar os Estilos de Texto
 
