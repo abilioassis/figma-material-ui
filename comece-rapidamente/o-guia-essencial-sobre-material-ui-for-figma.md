@@ -40,18 +40,7 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 
 ## Mapeamento de Estilos Figma para HTML
 
-| Figma     | HTML   |
-| --------- | ------ |
-| h1        | `<h1>` |
-| h2        | `<h2>` |
-| h3        | `<h3>` |
-| h4        | `<h4>` |
-| h5        | `<h5>` |
-| h6        | `<h6>` |
-| subtitle1 | `<h6>` |
-| subtitle2 | `<h6>` |
-| body1     | `<p>`  |
-| body2     | `<p>`  |
+<table><thead><tr><th width="100">Figma</th><th width="100">HTML</th></tr></thead><tbody><tr><td>h1</td><td><code>&#x3C;h1></code></td></tr><tr><td>h2</td><td><code>&#x3C;h2></code></td></tr><tr><td>h3</td><td><code>&#x3C;h3></code></td></tr><tr><td>h4</td><td><code>&#x3C;h4></code></td></tr><tr><td>h5</td><td><code>&#x3C;h5></code></td></tr><tr><td>h6</td><td><code>&#x3C;h6></code></td></tr><tr><td>subtitle1</td><td><code>&#x3C;h6></code></td></tr><tr><td>subtitle2</td><td><code>&#x3C;h6></code></td></tr><tr><td>body1</td><td><code>&#x3C;p></code></td></tr><tr><td>body2</td><td><code>&#x3C;p></code></td></tr></tbody></table>
 
 ## Como Usar os Estilos de Texto
 
