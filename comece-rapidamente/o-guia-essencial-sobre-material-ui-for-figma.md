@@ -10,11 +10,11 @@ description: >-
 
 São pontos definidos onde o layout muda para se adaptar a diferentes tamanhos de tela, como em celulares, tablets e desktops. No Material UI são definidos 5 breakpoints:
 
-* `xs` extra-small.
-* `sm` small.
-* `md` medium.
-* `lg` large.
-* `xl` extra-large.
+* `xs` extra-small: 0.
+* `sm` small: 600px.
+* `md` medium: 900px.&#x20;
+* `lg` large: 1200px.
+* `xl` extra-large: 1536px.
 
 <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Breakpoints padrão no Material UI</p></figcaption></figure>
 
