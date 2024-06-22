@@ -8,9 +8,16 @@ description: >-
 
 ## Breakpoints
 
+|                                                                                                                              |                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> | <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> |
+| <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> | <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> |
+| <p></p><p><strong>xs: extra-small</strong></p><ul><li>min-width: 0</li><li>default: 375px</li><li>max-width: 444px</li></ul> |                                                                                                                              |
 
-
-<table data-header-hidden data-full-width="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Breakpoint</strong></td><td><strong>default</strong></td></tr><tr><td>xs</td><td>375px</td></tr><tr><td></td><td></td></tr><tr><td><strong>min-width</strong></td><td><strong>max-width</strong></td></tr><tr><td>0</td><td>444px</td></tr></tbody></table>
+* **xs: extra-small**
+  * min-width: 0
+  * default: 375px
+  * max-width: 444px
 
 ## Grids
 
