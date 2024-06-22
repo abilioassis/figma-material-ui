@@ -8,21 +8,17 @@ description: >-
 
 ## Breakpoints
 
-São pontos definidos onde o layout muda para se adaptar a diferentes tamanhos de tela, como em celulares, tablets e desktops. No Material são definidos 5 breakpoints:
+São pontos definidos onde o layout muda para se adaptar a diferentes tamanhos de tela, como em celulares, tablets e desktops. No Material UI são definidos 5 breakpoints:
 
-* `xs`: extra-small.
-* `sm`: small.
-* md: medium.
-* `lg`: large.
-* `xl`: extra-large.
+* `xs` extra-small.
+* `sm` small.
+* `md` medium.
+* `lg` large.
+* `xl` extra-large.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Breakpoints default no Material UI</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Breakpoints padrão no Material UI</p></figcaption></figure>
 
 ## Grids
-
-
 
 ## Tipografia e Estilos de Texto
 
