@@ -42,15 +42,57 @@ O Container possui uma propriedade chamada `Dis. Gutters` que, quando ativada, d
 
 O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos.
 
-### Utilizando o Container
+## Layouts
 
-O container é usado para a criação de layouts. O Material Design 2 prescreve um layout com 3 regiões principais:
+O container é usado para a criação de layouts.
 
-1. App bar.
-2. Navigation.
-3. Body.
+O Material Design 2 prescreve um layout com 3 regiões principais:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Layout base de um app de acordo com o Material Design 2</p></figcaption></figure>
+1. **App bar.**
+2. **Navigation**
+3. **Body.**
+
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Layout básico de um app segundo o Material Design 2.</p></figcaption></figure>
+
+### App Bar
+
+
+
+### Navigation
+
+A região de navegação é composta por componentes e elementos de navegação. Ela ajuda os usuários a navegar entre destinos em um aplicativo e a acionar ações importantes.
+
+* **Região de Navegação Expandida:** Quando a navegação está aberta, a largura da região de navegação é de 256 px fixa. Isso é utilizado para telas maiores, onde há espaço suficiente para mostrar a navegação de forma completa.
+* **Região de Navegação Colapsada:** Quando a navegação está fechada, a largura da região de navegação é de 72 px fixa. Isso é usado para telas menores, onde o espaço é mais limitado.
+* **Navegação por Rail:** Em telas menores, com largura abaixo de 600 px, um drawer de navegação modal pode preencher a região de navegação, aparecendo elevado acima da região do corpo.
+
+**Tabela de Dimensões e Navegação**
+
+| Largura da Tela | Tipo de Navegação | Largura da Navegação                                           |
+| --------------- | ----------------- | -------------------------------------------------------------- |
+| < 600 px        | Drawer Modal      | Preenche a região de navegação, aparece elevado acima do corpo |
+| 600 px - 900 px | Navegação Rail    | 72 px (colapsada)                                              |
+| >= 900 px       | Navegação Drawer  | 256 px (expandida)                                             |
+
+### Body
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tipografia
 
