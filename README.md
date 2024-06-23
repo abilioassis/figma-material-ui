@@ -75,7 +75,7 @@ O design de interface do usuário (UI) é uma parte fundamental do design da exp
 * **Guia de Estilo**: Documentação que define as diretrizes visuais e de interação, garantindo consistência em todos os aspectos do design.
 * **Biblioteca de Componentes**: Coleção de elementos de interface reutilizáveis que seguem as diretrizes do guia de estilo.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>UI tá dentro de UX.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>UI tá dentro de UX.</p></figcaption></figure>
 
 ### Foco no Desenvolvimento de Interfaces (UI Design)
 

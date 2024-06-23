@@ -1,5 +1,5 @@
 ---
-description: Dicas essenciais sobre layout, tipografia, cores e espaçamento.
+description: Dicas essenciais sobre layout, container, tipografia, cores e espaçamento.
 ---
 
 # O Guia Essencial Sobre Material UI for Figma
@@ -10,19 +10,21 @@ ARTIGO EM DESENVOLVIMENTO.
 
 ## Layouts
 
-O container é utilizado para criar layouts. O Material UI oferece diversos componentes, como Box, GridV2 e Stack, que auxiliam na construção de qualquer layout, sem sugerir um layout específico. Já o Material Design 2 recomenda um layout com três regiões principais:
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Layout básico de um app segundo o Material Design 2.</p></figcaption></figure>
+
+O Material UI for Figma oferece diversos componentes, como Container, Box e GridV2, que ajudam na construção de qualquer layout, sem sugerir um layout específico. Já o Material Design 2 recomenda um layout básico para a criação de aplicativos, que possui três regiões principais:
 
 1. **App bar**
 2. **Navigation**
 3. **Body**
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Layout básico de um app segundo o Material Design 2.</p></figcaption></figure>
+### 1. App Bar
 
-### App Bar
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemplo de app bar em dispositivos móveis.</p></figcaption></figure>
 
+A app bar é usada para mostrar e agrupar elementos e ações importantes que ajudam os usuários a realizar tarefas principais no aplicativo. Ela organiza elementos como ícones de menu, logotipos e barras de pesquisa de forma que fiquem bem posicionados na tela. Por exemplo, o ícone do menu e o logotipo ficam na borda esquerda, a barra de pesquisa no centro, e os ícones de ação na borda direita. Essa organização garante que a app bar seja prática e funcional em diferentes tamanhos de tela.
 
-
-### Navigation
+### 2. Navigation
 
 A região de navegação é composta por componentes e elementos que ajudam os usuários a navegar entre destinos em um aplicativo e acionar ações importantes.
 
@@ -36,7 +38,7 @@ A região de navegação é composta por componentes e elementos que ajudam os u
 
 **Região de Navegação Expandida (Navigation drawer)**: Quando a navegação está aberta, a largura da região de navegação é fixada em 256 px. Isso é ideal para telas maiores (>= 900 px), onde há espaço suficiente para exibir a navegação completa.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Navegação para telas com 900 px ou mais.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Navegação para telas com 900 px ou mais.</p></figcaption></figure>
 
 #### **Navegação e Dimensões da Tela**
 
@@ -46,7 +48,7 @@ A região de navegação é composta por componentes e elementos que ajudam os u
 | 600 px - 900 px | Navigation Rail         | 72 px (colapsada)                                             |
 | >= 900 px       | Navigation Drawer       | 256 px (expandida)                                            |
 
-### Body
+### 3. Body
 
 ##
 
@@ -54,7 +56,7 @@ A região de navegação é composta por componentes e elementos que ajudam os u
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>O componente &#x3C;Container> e suas propriedades. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
+O container é utilizado para criar layouts. O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
 
 Os nomes dos componentes no MUI for Figma começam e terminam com os símbolos de menor (<)e maior (>): \<Container>, \<Button>, etc.
 
