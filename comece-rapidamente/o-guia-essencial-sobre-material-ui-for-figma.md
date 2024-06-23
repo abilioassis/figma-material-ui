@@ -26,6 +26,8 @@ O Container está disponível em 5 larguras diferentes, ideais para mobile, tabl
 
 O designer pode alterar esses valores redefinindo a propriedade Width.
 
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>O componente &#x3C;Container> e suas propriedades. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
+
 ### **Auto Layout**
 
 Por padrão, o Auto Layout está ativado. No entanto, o designer pode desativar essa funcionalidade conforme necessário.
