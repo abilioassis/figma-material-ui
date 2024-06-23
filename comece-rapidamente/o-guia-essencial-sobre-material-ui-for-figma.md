@@ -22,7 +22,9 @@ O Material UI for Figma oferece diversos componentes, como Container, Box e Grid
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemplo de app bar em dispositivos móveis.</p></figcaption></figure>
 
-A app bar é usada para mostrar e agrupar elementos e ações importantes que ajudam os usuários a realizar tarefas principais no aplicativo. Ela organiza elementos como ícones de menu, logotipos e barras de pesquisa de forma que fiquem bem posicionados na tela. Por exemplo, o ícone do menu e o logotipo ficam na borda esquerda, a barra de pesquisa no centro, e os ícones de ação na borda direita. Essa organização garante que a app bar seja prática e funcional em diferentes tamanhos de tela.
+A app bar é usada para mostrar e agrupar elementos e ações importantes que ajudam os usuários a realizar tarefas principais no aplicativo. Ela organiza elementos como ícones de menu, logotipos e barras de pesquisa de forma que fiquem bem posicionados na tela.
+
+Por exemplo, o ícone do menu e o logotipo ficam na borda esquerda, a barra de pesquisa no centro, e os ícones de ação na borda direita. Essa organização garante que a app bar seja prática e funcional em diferentes tamanhos de tela.
 
 ### Navigation
 
