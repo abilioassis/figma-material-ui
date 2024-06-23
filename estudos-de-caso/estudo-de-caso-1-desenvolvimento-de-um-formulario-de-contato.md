@@ -106,6 +106,8 @@ Vamos usar a última versão do wireframe (V3) como base para começar o desenvo
 
 ## Componentes do Material UI Utilizados
 
+### Container
+
 ### Typography
 
 ### Divider
