@@ -14,17 +14,17 @@ ARTIGO EM DESENVOLVIMENTO.
 
 O Material UI for Figma oferece diversos componentes, como Container, Box e GridV2, que ajudam na construção de qualquer layout, sem sugerir um layout específico. Já o Material Design 2 recomenda um layout básico para a criação de aplicativos, que possui três regiões principais:
 
-1. **App bar**
-2. **Navigation**
-3. **Body**
+* **App bar**
+* **Navigation**
+* **Body**
 
-### 1. App Bar
+### App Bar
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemplo de app bar em dispositivos móveis.</p></figcaption></figure>
 
 A app bar é usada para mostrar e agrupar elementos e ações importantes que ajudam os usuários a realizar tarefas principais no aplicativo. Ela organiza elementos como ícones de menu, logotipos e barras de pesquisa de forma que fiquem bem posicionados na tela. Por exemplo, o ícone do menu e o logotipo ficam na borda esquerda, a barra de pesquisa no centro, e os ícones de ação na borda direita. Essa organização garante que a app bar seja prática e funcional em diferentes tamanhos de tela.
 
-### 2. Navigation
+### Navigation
 
 A região de navegação é composta por componentes e elementos que ajudam os usuários a navegar entre destinos em um aplicativo e acionar ações importantes.
 
@@ -48,7 +48,7 @@ A região de navegação é composta por componentes e elementos que ajudam os u
 | 600 px - 900 px | Navigation Rail         | 72 px (colapsada)                                             |
 | >= 900 px       | Navigation Drawer       | 256 px (expandida)                                            |
 
-### 3. Body
+### Body
 
 ##
 
