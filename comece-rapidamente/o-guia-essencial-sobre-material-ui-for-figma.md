@@ -34,9 +34,11 @@ O Container possui uma propriedade chamada Dis. Gutters que, quando ativada, def
 
 O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos.
 
-## Tipografia e Estilos de Texto
+## Tipografia
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
+
+### Estilos de Texto
 
 Os estilos de texto no Material UI utilizam a fonte **Roboto**, seguindo as definições tipográficas do **Material Design 2**. Esses estilos abrangem títulos (**h1..h6**), corpo de texto (**body1 e body2**), subtítulos (**subtitle1 e subtitle2**), linha superior (**overline**) e legenda (**caption**), além de estilos específicos para componentes como botões, DataPickers, menus e tabelas.
 
@@ -46,7 +48,7 @@ Ao trabalhar com fontes, alinhe-as à identidade visual da marca do aplicativo. 
 
 Preste atenção na altura da linha ao ajustar estilos no Material UI. Essas alturas são múltiplos de 4px, garantindo um alinhamento perfeito em um grid de 4px, o que contribui para uma interface visualmente coesa e harmoniosa, alinhada às diretrizes do Material Design.
 
-## Estilos de Texto e HTML Semântico
+### Estilos de Texto e HTML Semântico
 
 Os estilos de texto h1 a h6 no Material UI for Figma podem gerar confusão, pois no HTML5 esses termos têm significados específicos. No Figma, os designers usam esses títulos principalmente para criar uma hierarquia visual, não necessariamente seguindo a mesma hierarquia semântica do HTML.
 
@@ -56,7 +58,7 @@ Por exemplo, ao projetar um site de notícias no Figma, o designer pode usar h1 
 
 Quando houver discrepância entre os estilos do Figma e a semântica HTML, o designer pode adicionar notas ao design. Por exemplo, se quiser que um texto tenha o estilo h3 no Figma, mas seja renderizado como `<h4>` no HTML, adicione uma nota explicando essa especificação. Isso garante que os desenvolvedores compreendam a intenção do design e apliquem os estilos corretamente.
 
-## Mapeamento de Estilos Figma para HTML
+### Mapeamento de Estilos de Texto para HTML5
 
 | Figma     | HTML   |
 | --------- | ------ |
@@ -71,18 +73,12 @@ Quando houver discrepância entre os estilos do Figma e a semântica HTML, o des
 | body1     | `<p>`  |
 | body2     | `<p>`  |
 
-## Como Usar os Estilos de Texto
+### Usando os Estilos de Texto
 
 * **Títulos (h1 - h6):** reservado para informações curtas e importantes.
 * **Subtítulos (subtitle):** são menores que os títulos. Eles são tipicamente reservados para textos de ênfase média e de menor extensão.
 * **Corpo de texto (body):** tipicamente usado para escrita de formato longo, pois funciona bem em tamanhos de texto pequenos.
 * **Legenda e Linha Superior (caption e overline):** texto de legenda e linha superior são os tamanhos de fonte mais pequenos. Eles são usados parcimoniosamente para anotar imagens ou introduzir um título.
-
-## Espaçamento
-
-## Cores
-
-## Modos Claro e Escuro
 
 ## Para Saber Mais
 
