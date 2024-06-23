@@ -6,19 +6,33 @@ description: >-
 
 # O Guia Essencial Sobre Material UI for Figma
 
-## Breakpoints
+## Container
 
-São pontos definidos onde o layout muda para se adaptar a diferentes tamanhos de tela, como em celulares, tablets e desktops. No Material UI são definidos 5 breakpoints:
+O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
 
-* `xs` extra-small: 0.
-* `sm` small: 600px.
-* `md` medium: 900px.&#x20;
-* `lg` large: 1200px.
-* `xl` extra-large: 1536px.
+### **Larguras Padrão**
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Breakpoints padrão no Material UI</p></figcaption></figure>
+O Container está disponível em 5 larguras diferentes, ideais para mobile, tablet, desktop e além. No Figma, essas larguras são fixas e definidas pela propriedade Max Width do componente. As larguras padrão são:
 
-## Grids
+* Extra small (xs): 444 px
+* Small (sm): 600 px
+* Medium (md): 900 px
+* Large (lg): 1220 px
+* Extra large (xl): 1536 px
+
+O designer pode alterar esses valores redefinindo a propriedade Width.
+
+### **Auto Layout**
+
+Por padrão, o Auto Layout está ativado. No entanto, o designer pode desativar essa funcionalidade conforme necessário.
+
+### **Padding Horizontal**
+
+O Container possui uma propriedade chamada Dis. Gutters que, quando ativada, define o padding horizontal do container para 24px.
+
+### **Sistema de Grid**
+
+O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos.
 
 ## Tipografia e Estilos de Texto
 
