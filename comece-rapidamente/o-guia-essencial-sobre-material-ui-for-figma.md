@@ -52,15 +52,19 @@ A região de navegação é composta por componentes e elementos que ajudam os u
 
 ### Body
 
-##
+A região do corpo é onde a maioria do conteúdo de um aplicativo é mostrado. Isso inclui coisas como listas, cartões, botões e imagens. Ela é organizada de forma a se ajustar ao tamanho da tela do dispositivo em que está sendo exibida.
+
+Quando a tela é pequena, como em um celular, as margens ao redor do conteúdo são menores, para garantir que tudo caiba bem na tela. Conforme a tela fica maior, as margens aumentam para manter uma aparência proporcional e bonita.
+
+Essa região também usa uma grade de colunas que se ajusta automaticamente à largura da tela. Isso ajuda a posicionar os elementos de forma organizada e consistente em diferentes dispositivos, como tablets e computadores. Por exemplo, em uma tela grande, pode haver mais colunas para distribuir o conteúdo de maneira mais eficiente.
+
+Esses ajustes garantem que o layout do aplicativo se adapte ao tamanho da tela, proporcionando uma experiência de uso agradável e consistente, não importa em qual dispositivo o aplicativo seja usado.
 
 ## Container
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>O componente &#x3C;Container> e suas propriedades. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
 
-O container é utilizado para criar layouts. O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
-
-Os nomes dos componentes no MUI for Figma começam e terminam com os símbolos de menor (<)e maior (>): \<Container>, \<Button>, etc.
+O componente Container no Material UI for Figma pode ser usado para construir a região do body no layout proposto pelo Material Design.
 
 ### **Larguras Padrão**
 
@@ -84,7 +88,13 @@ O Container possui uma propriedade chamada `Dis. Gutters` que, quando ativada, d
 
 ### **Grid**
 
-O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos.
+O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos. A configuração do grid pode ser customizada na versão paga do Material UI for Figma. Isso vale como regra geral.
+
+
+
+{% hint style="info" %}
+As customizações de componentes são permitidas apenas na versão paga do MUI for Figma.
+{% endhint %}
 
 ## Tipografia
 
