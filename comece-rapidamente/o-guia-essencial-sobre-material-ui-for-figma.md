@@ -14,11 +14,11 @@ O componente Container no MUI for Figma é um frame que representa toda a tela, 
 
 O Container está disponível em 5 larguras diferentes, ideais para mobile, tablet, desktop e além. No Figma, essas larguras são fixas e definidas pela propriedade Max Width do componente. As larguras padrão são:
 
-* Extra small (xs): 444 px
-* Small (sm): 600 px
-* Medium (md): 900 px
-* Large (lg): 1220 px
-* Extra large (xl): 1536 px
+* **Extra small** (xs): 444 px
+* **Small** (sm): 600 px
+* **Medium** (md): 900 px
+* **Large** (lg): 1220 px
+* **Extra large** (xl): 1536 px
 
 O designer pode alterar esses valores redefinindo a propriedade Width.
 
@@ -30,7 +30,7 @@ Por padrão, o Auto Layout está ativado. No entanto, o designer pode desativar 
 
 O Container possui uma propriedade chamada Dis. Gutters que, quando ativada, define o padding horizontal do container para 24px.
 
-### **Sistema de Grid**
+### **Grid**
 
 O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos.
 
