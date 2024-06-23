@@ -1,7 +1,5 @@
 ---
-description: >-
-  Dicas essenciais sobre tipografia, espaçamento, cores e como trabalhar com os
-  modos claro e escuro.
+description: Dicas essenciais sobre layout, tipografia, cores e espaçamento.
 ---
 
 # O Guia Essencial Sobre Material UI for Figma
@@ -74,11 +72,11 @@ A região de navegação é composta por componentes e elementos que ajudam os u
 
 #### **Navegação e Dimensões da Tela**
 
-| Largura da Tela | Tipo de Navegação       | Largura da Navegação                                           |
-| --------------- | ----------------------- | -------------------------------------------------------------- |
-| < 600 px        | Modal Navigation Drawer | Preenche a região de navegação, aparece elevado acima do corpo |
-| 600 px - 900 px | Navigation Rail         | 72 px (colapsada)                                              |
-| >= 900 px       | Navigation Drawer       | 256 px (expandida)                                             |
+| Largura da Tela | Tipo de Navegação       | Largura da Navegação                                          |
+| --------------- | ----------------------- | ------------------------------------------------------------- |
+| < 600 px        | Modal Navigation Drawer | Preenche a região de navegação, aparece elevado acima do body |
+| 600 px - 900 px | Navigation Rail         | 72 px (colapsada)                                             |
+| >= 900 px       | Navigation Drawer       | 256 px (expandida)                                            |
 
 ### Body
 
