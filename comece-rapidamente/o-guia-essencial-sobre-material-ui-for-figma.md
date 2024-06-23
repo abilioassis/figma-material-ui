@@ -58,19 +58,27 @@ O container é utilizado para criar layouts. O Material UI oferece diversos comp
 
 ### Navigation
 
-A região de navegação é composta por componentes e elementos de navegação. Ela ajuda os usuários a navegar entre destinos em um aplicativo e a acionar ações importantes.
+A região de navegação é composta por componentes e elementos que ajudam os usuários a navegar entre destinos em um aplicativo e acionar ações importantes.
 
-* **Região de Navegação Expandida:** Quando a navegação está aberta, a largura da região de navegação é de 256 px fixa. Isso é utilizado para telas maiores, onde há espaço suficiente para mostrar a navegação de forma completa.
-* **Região de Navegação Colapsada:** Quando a navegação está fechada, a largura da região de navegação é de 72 px fixa. Isso é usado para telas menores, onde o espaço é mais limitado.
-* **Navegação por Rail:** Em telas menores, com largura abaixo de 600 px, um drawer de navegação modal pode preencher a região de navegação, aparecendo elevado acima da região do corpo.
+* **Região de Navegação Modal (Modal Navigation Drawer)**: Em telas menores, com largura abaixo de 600 px, um drawer de navegação modal pode preencher a região de navegação, aparecendo elevado acima da região do corpo.
 
-**Tabela de Dimensões e Navegação**
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Navegação para telas menores que 600 px.</p></figcaption></figure>
 
-| Largura da Tela | Tipo de Navegação | Largura da Navegação                                           |
-| --------------- | ----------------- | -------------------------------------------------------------- |
-| < 600 px        | Drawer Modal      | Preenche a região de navegação, aparece elevado acima do corpo |
-| 600 px - 900 px | Navegação Rail    | 72 px (colapsada)                                              |
-| >= 900 px       | Navegação Drawer  | 256 px (expandida)                                             |
+* **Região de Navegação Colapsada (Navigation rail)**: Quando a navegação está fechada, a largura da região de navegação é fixada em 72 px. Isso é usado para telas menores, onde o espaço é mais limitado.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Navegação para telas entre 600 - 900 px.</p></figcaption></figure>
+
+* **Região de Navegação Expandida (Navigation drawer)**: Quando a navegação está aberta, a largura da região de navegação é fixada em 256 px. Isso é ideal para telas maiores (>= 900 px), onde há espaço suficiente para exibir a navegação completa.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Navegação para telas com 900 px ou mais.</p></figcaption></figure>
+
+#### **Navegação e Dimensões da Tela**
+
+| Largura da Tela | Tipo de Navegação       | Largura da Navegação                                           |
+| --------------- | ----------------------- | -------------------------------------------------------------- |
+| < 600 px        | Modal Navigation Drawer | Preenche a região de navegação, aparece elevado acima do corpo |
+| 600 px - 900 px | Navigation Rail         | 72 px (colapsada)                                              |
+| >= 900 px       | Navigation Drawer       | 256 px (expandida)                                             |
 
 ### Body
 
@@ -94,7 +102,7 @@ A região de navegação é composta por componentes e elementos de navegação.
 
 ## Tipografia
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>O texto 1 usa um estilo pré-definido do Material UI e se encaixa verticalmente no grid de 4px. O texto 2 usa um estilo personalizado que não segue as recomendações do Material Design.</p></figcaption></figure>
 
 ### Estilos de Texto
 
