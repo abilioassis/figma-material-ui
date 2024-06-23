@@ -44,13 +44,11 @@ O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acord
 
 ## Layouts
 
-O container é usado para a criação de layouts.
+O container é utilizado para criar layouts. O Material UI oferece diversos componentes, como Box, GridV2 e Stack, que auxiliam na construção de qualquer layout, sem sugerir um layout específico. Já o Material Design 2 recomenda um layout com três regiões principais:
 
-O Material Design 2 prescreve um layout com 3 regiões principais:
-
-1. **App bar.**
+1. **App bar**
 2. **Navigation**
-3. **Body.**
+3. **Body**
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Layout básico de um app segundo o Material Design 2.</p></figcaption></figure>
 
