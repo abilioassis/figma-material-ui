@@ -6,6 +6,10 @@ description: >-
 
 # O Guia Essencial Sobre Material UI for Figma
 
+{% hint style="info" %}
+ARTIGO EM DESENVOLVIMENTO.
+{% endhint %}
+
 ## Container
 
 O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
