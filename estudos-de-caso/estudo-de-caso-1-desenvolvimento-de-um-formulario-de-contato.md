@@ -62,7 +62,7 @@ Transforme suas notas em esboços de wireframes. Organize as informações relev
 
 Quando o conteúdo estiver validado, o trabalho pode prosseguir com menos atrito e retrabalho. Gosto de pensar no modelo de conteúdo como uma tela desorganizada que contém todos os ingredientes necessários para se criar uma boa interface.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Modelo de conteúdo V2.</p></figcaption></figure>
 
 ## Projetando a interface ao Redor do Conteúdo
 

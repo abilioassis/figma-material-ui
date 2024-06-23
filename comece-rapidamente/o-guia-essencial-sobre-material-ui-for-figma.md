@@ -16,9 +16,11 @@ ARTIGO EM DESENVOLVIMENTO.
 
 O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
 
+Os nomes dos componentes no MUI for Figma começam e terminam com os símbolos de menor (<)e maior (>): \<Container>, \<Button>, etc.
+
 ### **Larguras Padrão**
 
-O Container está disponível em 5 larguras diferentes, ideais para mobile, tablet, desktop e além. No Figma, essas larguras são fixas e definidas pela propriedade Max Width do componente. As larguras padrão são:
+O Container está disponível em 5 larguras diferentes, ideais para mobile, tablet, desktop e além. No Figma, essas larguras são fixas e definidas pela propriedade `Max Width` do componente. As larguras padrão são:
 
 * **Extra small** (xs): 444 px
 * **Small** (sm): 600 px
@@ -26,7 +28,7 @@ O Container está disponível em 5 larguras diferentes, ideais para mobile, tabl
 * **Large** (lg): 1220 px
 * **Extra large** (xl): 1536 px
 
-O designer pode alterar esses valores redefinindo a propriedade Width (W).
+O designer pode alterar esses valores redefinindo a propriedade Width (`W`).
 
 ### **Auto Layout**
 
@@ -34,11 +36,21 @@ Por padrão, o Auto Layout está ativado no Container. No entanto, o designer po
 
 ### **Padding Horizontal**
 
-O Container possui uma propriedade chamada Dis. Gutters que, quando ativada, define o padding horizontal para um valor positivo.
+O Container possui uma propriedade chamada `Dis. Gutters` que, quando ativada, define o padding horizontal para um valor positivo.
 
 ### **Grid**
 
 O Container utiliza um sistema de grid baseado em 12 colunas, que varia de acordo com a largura da tela, facilitando o design de layouts responsivos.
+
+### Utilizando o Container
+
+O container é usado para a criação de layouts. O Material Design 2 prescreve um layout com 3 regiões principais:
+
+1. App bar.
+2. Navigation.
+3. Body.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Layout base de um app de acordo com o Material Design 2</p></figcaption></figure>
 
 ## Tipografia
 
