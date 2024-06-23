@@ -12,6 +12,8 @@ ARTIGO EM DESENVOLVIMENTO.
 
 ## Container
 
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>O componente &#x3C;Container> e suas propriedades. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
+
 O componente Container no MUI for Figma é um frame que representa toda a tela, dentro do qual todo o conteúdo é desenhado.
 
 ### **Larguras Padrão**
@@ -24,17 +26,15 @@ O Container está disponível em 5 larguras diferentes, ideais para mobile, tabl
 * **Large** (lg): 1220 px
 * **Extra large** (xl): 1536 px
 
-O designer pode alterar esses valores redefinindo a propriedade Width.
-
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>O componente &#x3C;Container> e suas propriedades. Imagem obtida no <a href="https://www.figma.com/community/file/912837788133317724">Material UI Community Edition</a>.</p></figcaption></figure>
+O designer pode alterar esses valores redefinindo a propriedade Width (W).
 
 ### **Auto Layout**
 
-Por padrão, o Auto Layout está ativado. No entanto, o designer pode desativar essa funcionalidade conforme necessário.
+Por padrão, o Auto Layout está ativado no Container. No entanto, o designer pode desativar essa funcionalidade conforme necessário.
 
 ### **Padding Horizontal**
 
-O Container possui uma propriedade chamada Dis. Gutters que, quando ativada, define o padding horizontal do container para 24px.
+O Container possui uma propriedade chamada Dis. Gutters que, quando ativada, define o padding horizontal para um valor positivo.
 
 ### **Grid**
 
