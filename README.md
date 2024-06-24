@@ -27,20 +27,15 @@ layout:
 
 ## Público-Alvo
 
-#### Público-Alvo
-
 O livro "Design de Interfaces com Figma e Material UI" é destinado a:
 
 1. **UX/UI Designers:**
    * Profissionais que desejam aprofundar seus conhecimentos em design de interfaces utilizando o Material UI e o MUI for Figma.
    * Designers que buscam aprimorar suas habilidades práticas com tutoriais detalhados e estudos de caso reais.
-2. **Estudantes de Design:**
-   * Alunos de cursos de design gráfico, design de interfaces ou UX/UI design que querem aprender ferramentas essenciais para o mercado de trabalho.
-   * Iniciantes que desejam começar sua jornada no design de interfaces com uma base sólida e prática.
-3. **Desenvolvedores Front-End:**
+2. **Desenvolvedores Front-End:**
    * Programadores interessados em entender melhor os princípios de design e como implementá-los usando o Material UI.
    * Desenvolvedores que colaboram com designers e querem alinhar suas práticas às melhores técnicas de design.
-4. **Profissionais de Tecnologia:**
+3. **Profissionais de Tecnologia:**
    * Equipes de produto que trabalham com a criação e manutenção de interfaces digitais.
    * Líderes de equipe e gerentes de projetos que precisam compreender os conceitos de design para melhor coordenar suas equipes.
 
@@ -82,24 +77,4 @@ Investir nessas ferramentas é um passo importante para sua carreira. A utiliza�
 
 O design de interface do usuário (UI) é uma parte fundamental do design da experiência do usuário (UX). Enquanto o UX Design abrange toda a jornada do usuário com um produto, incluindo pesquisa, entrevistas e testes de usabilidade, o UI Design foca na criação de interfaces visuais e interativas que os usuários veem e utilizam.
 
-### Principais Entregáveis para UX Design
-
-* **Personas**: Perfis fictícios baseados em pesquisas para representar diferentes tipos de usuários.
-* **Mapas de Jornada do Usuário**: Diagramas que mostram as etapas que um usuário passa ao interagir com um produto ou serviço.
-* **Fluxos de Tarefas**: Sequências detalhadas das ações que um usuário realiza para completar uma tarefa.
-* **Relatórios de Pesquisa**: Resultados de entrevistas, testes de usabilidade e outras técnicas de pesquisa com usuários.
-* **Estruturas de Informação**: Organizações hierárquicas e lógicas do conteúdo dentro do produto.
-
-### Principais Entregáveis para UI Design
-
-* **Wireframes**: Esboços básicos que mostram a estrutura de uma página ou aplicativo.
-* **Mockups**: Representações visuais detalhadas do design final, incluindo cores, tipografia e imagens.
-* **Protótipos**: Versões interativas dos designs que permitem a navegação e a interação, ajudando a testar a usabilidade antes do desenvolvimento final.
-* **Guia de Estilo**: Documentação que define as diretrizes visuais e de interação, garantindo consistência em todos os aspectos do design.
-* **Biblioteca de Componentes**: Coleção de elementos de interface reutilizáveis que seguem as diretrizes do guia de estilo.
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>UI tá dentro de UX.</p></figcaption></figure>
-
-### Foco no Desenvolvimento de Interfaces (UI Design)
-
-O foco aqui é o desenvolvimento de interfaces, o cerne do UI Design. Não entraremos em detalhes sobre entrevistas e técnicas de pesquisa com usuários. Nos estudos de caso, assumiremos que esse trabalho já foi feito e fornecerá todos os insumos necessários para criar interfaces eficazes e intuitivas.
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>UI Design faz parte de UX Design.</p></figcaption></figure>
