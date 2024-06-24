@@ -17,11 +17,34 @@ layout:
 
 # Design de Interfaces com Figma e Material UI
 
-<figure><img src=".gitbook/assets/hero.png" alt="&#x22;&#x22;"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cover-book.png" alt=""><figcaption></figcaption></figure>
 
-## Quem Pode se Beneficiar?
+## Objetivos do Livro
 
-Qualquer pessoa interessada em aperfeiçoar suas habilidades em design de interfaces.
+* Introduzir o Material UI e o MUI for Figma.
+* Demonstrar a aplicação prática de componentes do Material UI no Figma.
+* Apresentar estudos de caso detalhados para criar interfaces funcionais e atraentes.
+
+## Público-Alvo
+
+#### Público-Alvo
+
+O livro "Design de Interfaces com Figma e Material UI" é destinado a:
+
+1. **UX/UI Designers:**
+   * Profissionais que desejam aprofundar seus conhecimentos em design de interfaces utilizando o Material UI e o MUI for Figma.
+   * Designers que buscam aprimorar suas habilidades práticas com tutoriais detalhados e estudos de caso reais.
+2. **Estudantes de Design:**
+   * Alunos de cursos de design gráfico, design de interfaces ou UX/UI design que querem aprender ferramentas essenciais para o mercado de trabalho.
+   * Iniciantes que desejam começar sua jornada no design de interfaces com uma base sólida e prática.
+3. **Desenvolvedores Front-End:**
+   * Programadores interessados em entender melhor os princípios de design e como implementá-los usando o Material UI.
+   * Desenvolvedores que colaboram com designers e querem alinhar suas práticas às melhores técnicas de design.
+4. **Profissionais de Tecnologia:**
+   * Equipes de produto que trabalham com a criação e manutenção de interfaces digitais.
+   * Líderes de equipe e gerentes de projetos que precisam compreender os conceitos de design para melhor coordenar suas equipes.
+
+Este livro é ideal tanto para aqueles que estão começando quanto para profissionais que desejam se atualizar e aperfeiçoar suas habilidades no uso do Figma e Material UI para criar interfaces de usuário modernas e eficientes.
 
 ## Metodologia de Aprendizado por Estudos de Caso
 
