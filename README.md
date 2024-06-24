@@ -75,6 +75,4 @@ Investir nessas ferramentas é um passo importante para sua carreira. A utiliza�
 
 O design de interface do usuário (UI) é uma parte fundamental do design da experiência do usuário (UX). Enquanto o UX Design abrange toda a jornada do usuário com um produto, incluindo pesquisa, entrevistas e testes de usabilidade, o UI Design foca na criação de interfaces visuais e interativas que os usuários veem e utilizam.
 
-<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>UI Design faz parte de UX Design.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption><p>UI Design faz parte de UX Design.</p></figcaption></figure>
