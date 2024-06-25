@@ -31,9 +31,12 @@ layout:
 
 ## Objetivos do Livro
 
-* Introduzir o Material UI e o MUI for Figma.
-* Demonstrar a aplicação prática de componentes do Material UI no Figma.
-* Apresentar estudos de caso detalhados para criar interfaces funcionais e atraentes.
+1. **Ensinar a utilização do Material UI e do MUI for Figma**:
+   * Abordar desde o básico até técnicas avançadas para criar interfaces de usuário profissionais.
+2. **Demonstrar a aplicação prática através de estudos de caso**:
+   * Apresentar tutoriais detalhados que guiam os designers na criação de interfaces, passo a passo.
+3. **Incorporar princípios de acessibilidade no design**:
+   * Fornecer diretrizes e práticas recomendadas para garantir que as interfaces sejam acessíveis a todos os usuários.
 
 ## Público-Alvo
 
