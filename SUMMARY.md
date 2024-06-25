@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Design de Interfaces com Figma e Material UI](README.md)
+* [Copy of Design de Interfaces com Figma e Material UI](readme-1.md)
 
 ## Comece rapidamente
 
