@@ -18,7 +18,9 @@ layout:
 # Design de Interfaces com Figma e Material UI
 
 {% hint style="info" %}
-**LIVRO EM DESENVOLVIMENTO**
+**ESTE LIVRO ESTÁ EM ELABORAÇÃO E DIARIAMENTE SENDO ALTERADO.**
+
+**PREVISÃO DE FECHAMENTO DA PRIMEIRA EDIÇÃO: JUNHO/2025.**
 {% endhint %}
 
 <figure><img src=".gitbook/assets/cover-book.png" alt=""><figcaption></figcaption></figure>
