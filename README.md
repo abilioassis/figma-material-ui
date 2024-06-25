@@ -22,7 +22,7 @@ layout:
 
 **PREVISÃO DE FECHAMENTO DA PRIMEIRA EDIÇÃO: JUNHO/2025.**
 
-**SUGESTÕES E CRÍTICAS ENVIE EMAIL PARA: abiliodeassis (gmail)**
+**SUGESTÕES E CRÍTICAS ENVIE PARA O MEU GMail: abiliodeassis.**
 {% endhint %}
 
 <figure><img src=".gitbook/assets/cover-book.png" alt=""><figcaption></figcaption></figure>
