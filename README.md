@@ -48,11 +48,12 @@ O livro "Design de Interfaces com Figma e Material UI" é destinado a:
    * Líderes de equipe e gerentes de projetos que precisam compreender os conceitos de design para melhor coordenar suas equipes.
 
 ## Sumário
+1. **PARTE I: Comece rapidamente**
+   * Introdução ao design de interfaces com Figma e Material UI.
+   * O essencial do Material Design para design de interfaces.
+   * O essencial do Material UI para designers.
+   * O essencial do MUI for Figma para design de interfaces.
 
-**UX/UI Designers:**
-
-* Profissionais que desejam aprofundar seus conhecimentos em design de interfaces utilizando o Material UI e o MUI for Figma.
-* Designers que buscam aprimorar suas habilidades práticas com tutoriais detalhados e estudos de caso reais.
 
 
 
