@@ -49,27 +49,34 @@ O livro "Design de Interfaces com Figma e Material UI" é destinado a:
 
 ## Sumário
 
-1. **Comece rapidamente:**
-   * Introdução ao design de interfaces com Figma e Material UI.
-   * O essencial do Material Design para design de interfaces.
-   * O essencial do MUI for Figma para design de interfaces.
-2. **Habilidades críticas para o sucesso no trabalho:**
-   * Como customizar as cores.
-   * Como customizar a tipografia.
-   * Como customizar os modos claro e escuro.
-   * Como customizar os componentes.
-   * Como sincronizar as customizações do Figma com o código fonte.
-3. **Uma introdução à acessibilidade digital para designers:**
-   * Landmarks.
-   * Headlines.
-   * Ordem de foco.
-   * Sentido de leitura.
-   * Imagens.
-4. **Estudos de caso:**
-   * Estudo de Caso 1: Interface Básica para Aplicativo de Tarefas.
-   * Estudo de Caso 2: Dashboard de Monitoramento de Vendas.
-   * Estudo de Caso 3: Aplicativo de Saúde e Bem-Estar.
-   * Estudo de Caso 4: Plataforma de E-commerce Completa.
+**PARTE I: Comece rapidamente**
+
+1. Introdução ao design de interfaces com Figma e Material UI
+2. O essencial do Material Design para design de interfaces
+3. O essencial do MUI for Figma para design de interfaces
+
+**PARTE II: Habilidades críticas para o sucesso no trabalho**
+
+4. Como customizar as cores
+5. Como customizar a tipografia
+6. Como customizar os modos claro e escuro
+7. Como customizar os componentes
+8. Como sincronizar as customizações do Figma com o código fonte
+
+**PARTE III: Uma introdução à acessibilidade digital para designers**
+
+9. Landmarks
+10. Headlines
+11. Ordem de foco
+12. Sentido de leitura
+13. Imagens
+
+**PARTE IV: Estudos de caso**
+
+14. Estudo de Caso 1: Interface Básica para Aplicativo de Tarefas
+15. Estudo de Caso 2: Dashboard de Monitoramento de Vendas
+16. Estudo de Caso 3: Aplicativo de Saúde e Bem-Estar
+17. Estudo de Caso 4: Plataforma de E-commerce Completa
 
 ### **Idiomas Disponíveis**
 
