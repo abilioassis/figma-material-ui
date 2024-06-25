@@ -18,11 +18,13 @@ layout:
 # Design de Interfaces com Figma e Material UI
 
 {% hint style="info" %}
-**ESTE LIVRO ESTÁ EM ELABORAÇÃO.**
+**LIVRO EM ELABORAÇÃO**
 
-**PREVISÃO DE FECHAMENTO DA PRIMEIRA EDIÇÃO: JUNHO/2025.**
+**PREVISÃO DE FECHAMENTO DA PRIMEIRA EDIÇÃO: JUNHO/2025**
 
-**SUGESTÕES E CRÍTICAS ENVIE PARA O MEU GMail: abiliodeassis.**
+**SUGESTÕES E CRÍTICAS SÃO BEM VINDAS**
+
+**ENVIE EMIAL PARA: abiliodeassis (Gmail)**
 {% endhint %}
 
 <figure><img src=".gitbook/assets/cover-book.png" alt=""><figcaption></figcaption></figure>
